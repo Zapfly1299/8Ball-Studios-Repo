@@ -1,0 +1,1810 @@
+﻿Log file open, 01/11/21 18:45:12
+LogInit: Display: Running engine for game: BA_Project
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.421222
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin MovieRenderPipeline
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.25-CL-14469661
+LogInit: Engine Version: 4.25.4-14469661+++UE4+Release-4.25
+LogInit: Compatible Engine Version: 4.25.0-13144385+++UE4+Release-4.25
+LogInit: Net CL: 13144385
+LogInit: OS: Windows 10 (Release 2004) (), CPU: AMD Ryzen 7 3700X 8-Core Processor             , GPU: NVIDIA GeForce RTX 2080 SUPER
+LogInit: Compiled (64-bit): Oct 11 2020 08:10:49
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.25
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Program Files/Unreal Engine/UE_4.25/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 26
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 38
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 43
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 7
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 37
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [E:/Teesside University/Year 3 -  Teesside/Beta Arcade/Unreal Files/8Ball-Studios-Repo/8Ball_Project/8Ball_Project/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.01.11-18.45.16:348][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.01.11-18.45.16:348][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.01.11-18.45.16:349][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [E:/Teesside University/Year 3 -  Teesside/Beta Arcade/Unreal Files/8Ball-Studios-Repo/8Ball_Project/8Ball_Project/Saved/Config/Windows/Engine.ini]
+[2021.01.11-18.45.16:349][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.01.11-18.45.16:349][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2021.01.11-18.45.16:349][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [E:/Teesside University/Year 3 -  Teesside/Beta Arcade/Unreal Files/8Ball-Studios-Repo/8Ball_Project/8Ball_Project/Saved/Config/Windows/Engine.ini]
+[2021.01.11-18.45.16:349][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [E:/Teesside University/Year 3 -  Teesside/Beta Arcade/Unreal Files/8Ball-Studios-Repo/8Ball_Project/8Ball_Project/Saved/Config/Windows/Engine.ini]
+[2021.01.11-18.45.16:349][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.01.11-18.45.16:349][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.01.11-18.45.16:349][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.01.11-18.45.16:349][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.01.11-18.45.16:349][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.01.11-18.45.16:349][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.01.11-18.45.16:349][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.01.11-18.45.16:349][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.01.11-18.45.16:349][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.01.11-18.45.16:349][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.01.11-18.45.16:349][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.01.11-18.45.16:349][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.01.11-18.45.16:349][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.01.11-18.45.16:349][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.01.11-18.45.16:349][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [E:/Teesside University/Year 3 -  Teesside/Beta Arcade/Unreal Files/8Ball-Studios-Repo/8Ball_Project/8Ball_Project/Saved/Config/Windows/Engine.ini]
+[2021.01.11-18.45.16:349][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.01.11-18.45.16:349][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.01.11-18.45.16:349][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.01.11-18.45.16:349][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.01.11-18.45.16:349][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.01.11-18.45.16:350][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.01.11-18.45.16:350][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.01.11-18.45.16:350][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.01.11-18.45.16:350][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.01.11-18.45.16:350][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.01.11-18.45.16:350][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.01.11-18.45.16:350][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.01.11-18.45.16:350][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.01.11-18.45.16:350][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [E:/Teesside University/Year 3 -  Teesside/Beta Arcade/Unreal Files/8Ball-Studios-Repo/8Ball_Project/8Ball_Project/Saved/Config/Windows/Engine.ini]
+[2021.01.11-18.45.16:350][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [E:/Teesside University/Year 3 -  Teesside/Beta Arcade/Unreal Files/8Ball-Studios-Repo/8Ball_Project/8Ball_Project/Saved/Config/Windows/Engine.ini]
+[2021.01.11-18.45.16:438][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/Teesside University/Year 3 -  Teesside/Beta Arcade/Unreal Files/8Ball-Studios-Repo/8Ball_Project/8Ball_Project/Saved/Config/Windows/Scalability.ini]
+[2021.01.11-18.45.16:438][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.01.11-18.45.16:438][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.01.11-18.45.16:438][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/Teesside University/Year 3 -  Teesside/Beta Arcade/Unreal Files/8Ball-Studios-Repo/8Ball_Project/8Ball_Project/Saved/Config/Windows/Scalability.ini]
+[2021.01.11-18.45.16:438][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.01.11-18.45.16:438][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/Teesside University/Year 3 -  Teesside/Beta Arcade/Unreal Files/8Ball-Studios-Repo/8Ball_Project/8Ball_Project/Saved/Config/Windows/Scalability.ini]
+[2021.01.11-18.45.16:438][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.01.11-18.45.16:438][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.01.11-18.45.16:438][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.01.11-18.45.16:438][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.01.11-18.45.16:438][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.01.11-18.45.16:438][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.01.11-18.45.16:438][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.01.11-18.45.16:438][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.01.11-18.45.16:438][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.01.11-18.45.16:438][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.01.11-18.45.16:438][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.01.11-18.45.16:438][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.01.11-18.45.16:438][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.01.11-18.45.16:438][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.01.11-18.45.16:438][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.01.11-18.45.16:438][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.01.11-18.45.16:438][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.01.11-18.45.16:438][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.01.11-18.45.16:438][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/Teesside University/Year 3 -  Teesside/Beta Arcade/Unreal Files/8Ball-Studios-Repo/8Ball_Project/8Ball_Project/Saved/Config/Windows/Scalability.ini]
+[2021.01.11-18.45.16:438][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.01.11-18.45.16:438][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.01.11-18.45.16:438][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.01.11-18.45.16:438][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.01.11-18.45.16:438][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.01.11-18.45.16:438][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.01.11-18.45.16:438][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.01.11-18.45.16:438][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.01.11-18.45.16:438][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.01.11-18.45.16:438][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.01.11-18.45.16:438][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.01.11-18.45.16:438][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.01.11-18.45.16:438][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.01.11-18.45.16:438][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.01.11-18.45.16:438][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.01.11-18.45.16:438][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.01.11-18.45.16:438][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.01.11-18.45.16:438][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.01.11-18.45.16:438][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.01.11-18.45.16:438][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.01.11-18.45.16:438][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.01.11-18.45.16:438][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.01.11-18.45.16:438][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.01.11-18.45.16:438][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.01.11-18.45.16:438][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.01.11-18.45.16:438][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.01.11-18.45.16:438][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.01.11-18.45.16:438][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.01.11-18.45.16:438][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.01.11-18.45.16:438][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.01.11-18.45.16:438][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/Teesside University/Year 3 -  Teesside/Beta Arcade/Unreal Files/8Ball-Studios-Repo/8Ball_Project/8Ball_Project/Saved/Config/Windows/Scalability.ini]
+[2021.01.11-18.45.16:438][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.01.11-18.45.16:438][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.01.11-18.45.16:439][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.01.11-18.45.16:439][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.01.11-18.45.16:439][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.01.11-18.45.16:439][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.01.11-18.45.16:439][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.01.11-18.45.16:439][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.01.11-18.45.16:439][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.01.11-18.45.16:439][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/Teesside University/Year 3 -  Teesside/Beta Arcade/Unreal Files/8Ball-Studios-Repo/8Ball_Project/8Ball_Project/Saved/Config/Windows/Scalability.ini]
+[2021.01.11-18.45.16:439][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.01.11-18.45.16:439][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.01.11-18.45.16:439][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.01.11-18.45.16:439][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.01.11-18.45.16:439][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.01.11-18.45.16:439][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.01.11-18.45.16:439][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.01.11-18.45.16:439][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.01.11-18.45.16:439][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.01.11-18.45.16:439][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.01.11-18.45.16:439][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.01.11-18.45.16:439][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.01.11-18.45.16:439][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.01.11-18.45.16:439][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.01.11-18.45.16:439][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.01.11-18.45.16:439][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.01.11-18.45.16:439][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2021.01.11-18.45.16:439][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.01.11-18.45.16:439][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.01.11-18.45.16:439][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.01.11-18.45.16:439][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2021.01.11-18.45.16:439][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.01.11-18.45.16:439][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2021.01.11-18.45.16:439][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.01.11-18.45.16:439][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.01.11-18.45.16:439][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.01.11-18.45.16:439][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/Teesside University/Year 3 -  Teesside/Beta Arcade/Unreal Files/8Ball-Studios-Repo/8Ball_Project/8Ball_Project/Saved/Config/Windows/Scalability.ini]
+[2021.01.11-18.45.16:439][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.01.11-18.45.16:439][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.01.11-18.45.16:439][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [E:/Teesside University/Year 3 -  Teesside/Beta Arcade/Unreal Files/8Ball-Studios-Repo/8Ball_Project/8Ball_Project/Saved/Config/Windows/Scalability.ini]
+[2021.01.11-18.45.16:439][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2021.01.11-18.45.16:439][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2021.01.11-18.45.16:439][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2021.01.11-18.45.16:439][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2021.01.11-18.45.16:439][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2021.01.11-18.45.16:439][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2021.01.11-18.45.16:439][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2021.01.11-18.45.16:457][  0]LogInit: Selected Device Profile: [Windows]
+[2021.01.11-18.45.16:465][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.01.11-18.45.16:475][  0]LogHAL: Display: Platform has ~ 16 GB [17126526976 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.01.11-18.45.16:475][  0]LogInit: Going up to parent DeviceProfile []
+[2021.01.11-18.45.16:475][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/Teesside University/Year 3 -  Teesside/Beta Arcade/Unreal Files/8Ball-Studios-Repo/8Ball_Project/8Ball_Project/Saved/Config/Windows/Scalability.ini]
+[2021.01.11-18.45.16:475][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.01.11-18.45.16:475][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.01.11-18.45.16:475][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/Teesside University/Year 3 -  Teesside/Beta Arcade/Unreal Files/8Ball-Studios-Repo/8Ball_Project/8Ball_Project/Saved/Config/Windows/Scalability.ini]
+[2021.01.11-18.45.16:475][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.01.11-18.45.16:475][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/Teesside University/Year 3 -  Teesside/Beta Arcade/Unreal Files/8Ball-Studios-Repo/8Ball_Project/8Ball_Project/Saved/Config/Windows/Scalability.ini]
+[2021.01.11-18.45.16:475][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.01.11-18.45.16:475][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.01.11-18.45.16:475][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.01.11-18.45.16:475][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.01.11-18.45.16:475][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.01.11-18.45.16:475][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.01.11-18.45.16:475][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.01.11-18.45.16:475][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.01.11-18.45.16:475][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.01.11-18.45.16:475][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.01.11-18.45.16:475][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.01.11-18.45.16:475][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.01.11-18.45.16:475][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.01.11-18.45.16:475][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.01.11-18.45.16:475][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.01.11-18.45.16:475][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.01.11-18.45.16:475][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.01.11-18.45.16:475][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.01.11-18.45.16:475][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/Teesside University/Year 3 -  Teesside/Beta Arcade/Unreal Files/8Ball-Studios-Repo/8Ball_Project/8Ball_Project/Saved/Config/Windows/Scalability.ini]
+[2021.01.11-18.45.16:475][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.01.11-18.45.16:475][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.01.11-18.45.16:475][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.01.11-18.45.16:475][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.01.11-18.45.16:475][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.01.11-18.45.16:475][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.01.11-18.45.16:475][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.01.11-18.45.16:475][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.01.11-18.45.16:475][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.01.11-18.45.16:475][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.01.11-18.45.16:475][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.01.11-18.45.16:475][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.01.11-18.45.16:475][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.01.11-18.45.16:475][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.01.11-18.45.16:475][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.01.11-18.45.16:475][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.01.11-18.45.16:475][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.01.11-18.45.16:475][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.01.11-18.45.16:475][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.01.11-18.45.16:475][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.01.11-18.45.16:475][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.01.11-18.45.16:475][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.01.11-18.45.16:475][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.01.11-18.45.16:475][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.01.11-18.45.16:475][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.01.11-18.45.16:475][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.01.11-18.45.16:475][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.01.11-18.45.16:475][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.01.11-18.45.16:475][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.01.11-18.45.16:475][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.01.11-18.45.16:475][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/Teesside University/Year 3 -  Teesside/Beta Arcade/Unreal Files/8Ball-Studios-Repo/8Ball_Project/8Ball_Project/Saved/Config/Windows/Scalability.ini]
+[2021.01.11-18.45.16:475][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.01.11-18.45.16:475][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.01.11-18.45.16:475][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.01.11-18.45.16:475][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.01.11-18.45.16:475][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.01.11-18.45.16:475][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.01.11-18.45.16:475][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.01.11-18.45.16:475][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.01.11-18.45.16:475][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.01.11-18.45.16:476][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/Teesside University/Year 3 -  Teesside/Beta Arcade/Unreal Files/8Ball-Studios-Repo/8Ball_Project/8Ball_Project/Saved/Config/Windows/Scalability.ini]
+[2021.01.11-18.45.16:476][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.01.11-18.45.16:476][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.01.11-18.45.16:476][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.01.11-18.45.16:476][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.01.11-18.45.16:476][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.01.11-18.45.16:476][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.01.11-18.45.16:476][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.01.11-18.45.16:476][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.01.11-18.45.16:476][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.01.11-18.45.16:476][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.01.11-18.45.16:476][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.01.11-18.45.16:476][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.01.11-18.45.16:476][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.01.11-18.45.16:476][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.01.11-18.45.16:476][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.01.11-18.45.16:476][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.01.11-18.45.16:476][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2021.01.11-18.45.16:476][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.01.11-18.45.16:476][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.01.11-18.45.16:476][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.01.11-18.45.16:476][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2021.01.11-18.45.16:476][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.01.11-18.45.16:476][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2021.01.11-18.45.16:476][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.01.11-18.45.16:476][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.01.11-18.45.16:476][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.01.11-18.45.16:476][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/Teesside University/Year 3 -  Teesside/Beta Arcade/Unreal Files/8Ball-Studios-Repo/8Ball_Project/8Ball_Project/Saved/Config/Windows/Scalability.ini]
+[2021.01.11-18.45.16:476][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.01.11-18.45.16:476][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.01.11-18.45.16:476][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [E:/Teesside University/Year 3 -  Teesside/Beta Arcade/Unreal Files/8Ball-Studios-Repo/8Ball_Project/8Ball_Project/Saved/Config/Windows/Scalability.ini]
+[2021.01.11-18.45.16:476][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2021.01.11-18.45.16:476][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2021.01.11-18.45.16:476][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2021.01.11-18.45.16:476][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2021.01.11-18.45.16:476][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2021.01.11-18.45.16:476][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2021.01.11-18.45.16:476][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2021.01.11-18.45.16:476][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.01.11-18.45.16:496][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.01.11-18.45.16:497][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.01.11-18.45.16:497][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.01.11-18.45.16:497][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [E:/Teesside University/Year 3 -  Teesside/Beta Arcade/Unreal Files/8Ball-Studios-Repo/8Ball_Project/8Ball_Project/Saved/Config/Windows/Engine.ini]
+[2021.01.11-18.45.16:529][  0]LogInit: Computer: DESKTOP-JCBV63G
+[2021.01.11-18.45.16:529][  0]LogInit: User: johns
+[2021.01.11-18.45.16:532][  0]LogInit: CPU Page size=4096, Cores=8
+[2021.01.11-18.45.16:532][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.01.11-18.45.16:532][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2021.01.11-18.45.16:537][  0]LogMemory: Platform Memory Stats for Windows
+[2021.01.11-18.45.16:537][  0]LogMemory: Process Physical Memory: 117.10 MB used, 117.11 MB peak
+[2021.01.11-18.45.16:537][  0]LogMemory: Process Virtual Memory: 107.84 MB used, 107.84 MB peak
+[2021.01.11-18.45.16:537][  0]LogMemory: Physical Memory: 5361.53 MB used,  10971.60 MB free, 16333.13 MB total
+[2021.01.11-18.45.16:537][  0]LogMemory: Virtual Memory: 5159.91 MB used,  134212568.00 MB free, 134217728.00 MB total
+[2021.01.11-18.45.16:544][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.01.11-18.45.31:787][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.01.11-18.45.31:885][  0]LogInit: Using OS detected language (en-GB).
+[2021.01.11-18.45.31:885][  0]LogInit: Using OS detected locale (en-GB).
+[2021.01.11-18.45.32:042][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2021.01.11-18.45.32:606][  0]LogInit: Setting process to per monitor DPI aware
+[2021.01.11-18.45.33:299][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.01.11-18.45.33:300][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.01.11-18.45.34:091][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.01.11-18.45.34:091][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.01.11-18.45.34:091][  0]LogD3D11RHI: D3D11 adapters:
+[2021.01.11-18.45.34:181][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2080 SUPER' (Feature Level 11_0)
+[2021.01.11-18.45.34:181][  0]LogD3D11RHI:       8010/0/8166 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2021.01.11-18.45.34:183][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.01.11-18.45.34:183][  0]LogD3D11RHI:       0/0/8166 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.01.11-18.45.34:183][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.01.11-18.45.34:260][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.01.11-18.45.34:260][  0]LogD3D11RHI:     GPU DeviceId: 0x1e81 (for the marketing name, search the web for "GPU Device Id")
+[2021.01.11-18.45.34:260][  0]LogWindows: EnumDisplayDevices:
+[2021.01.11-18.45.34:260][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2080 SUPER' (P:1 D:1)
+[2021.01.11-18.45.34:260][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2080 SUPER' (P:0 D:1)
+[2021.01.11-18.45.34:260][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2080 SUPER' (P:0 D:0)
+[2021.01.11-18.45.34:261][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2080 SUPER' (P:0 D:0)
+[2021.01.11-18.45.34:261][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2021.01.11-18.45.34:261][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2080 SUPER
+[2021.01.11-18.45.34:261][  0]LogD3D11RHI:   Driver Version: 457.51 (internal:27.21.14.5751, unified:457.51)
+[2021.01.11-18.45.34:261][  0]LogD3D11RHI:      Driver Date: 11-22-2020
+[2021.01.11-18.45.34:261][  0]LogRHI: Texture pool is 5607 MB (70% of 8010 MB)
+[2021.01.11-18.45.34:310][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.01.11-18.45.34:311][  0]LogD3D11RHI: Async texture creation enabled
+[2021.01.11-18.45.34:311][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.01.11-18.45.34:313][  0]LogD3D11RHI: HDR output is supported on display 1 (NvId: 0x80061086).
+[2021.01.11-18.45.35:010][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.01.11-18.45.35:539][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.01.11-18.45.35:594][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.01.11-18.45.35:594][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.01.11-18.45.35:594][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.01.11-18.45.35:594][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.01.11-18.45.35:594][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.01.11-18.45.35:594][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.01.11-18.45.35:594][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.01.11-18.45.35:594][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.01.11-18.45.35:594][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.01.11-18.45.35:594][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.01.11-18.45.35:727][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.01.11-18.45.35:727][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.01.11-18.45.35:760][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.01.11-18.45.35:789][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.01.11-18.45.35:814][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.01.11-18.45.35:843][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.01.11-18.45.35:867][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.01.11-18.45.35:882][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.01.11-18.45.35:908][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.01.11-18.45.35:953][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.01.11-18.45.35:953][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.01.11-18.45.35:989][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.01.11-18.45.35:989][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.01.11-18.45.36:049][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.01.11-18.45.36:079][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.01.11-18.45.36:103][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.01.11-18.45.36:122][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.01.11-18.45.36:122][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.01.11-18.45.36:312][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.01.11-18.45.37:041][  0]LogShaderCompilers: Guid format shader working directory is -68 characters bigger than the processId version (E:/Teesside University/Year 3 -  Teesside/Beta Arcade/Unreal Files/8Ball-Studios-Repo/8Ball_Project/8Ball_Project/Intermediate/Shaders/WorkingDirectory/13384/).
+[2021.01.11-18.45.37:041][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/johns/AppData/Local/Temp/UnrealShaderWorkingDir/C285F0CD42C945D20F408E994E048E4F/'.
+[2021.01.11-18.45.37:069][  0]LogXGEController: Cleaning working directory: C:/Users/johns/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2021.01.11-18.45.37:069][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2021.01.11-18.45.37:069][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.01.11-18.45.37:069][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.01.11-18.45.39:382][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.01.11-18.45.39:558][  0]LogDerivedDataCache: Loaded boot cache 0.18s 76MB C:/Users/johns/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2021.01.11-18.45.39:558][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/johns/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc
+[2021.01.11-18.45.39:558][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file E:/Teesside University/Year 3 -  Teesside/Beta Arcade/Unreal Files/8Ball-Studios-Repo/8Ball_Project/8Ball_Project/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.01.11-18.45.39:558][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.01.11-18.45.39:558][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file E:/Teesside University/Year 3 -  Teesside/Beta Arcade/Unreal Files/8Ball-Studios-Repo/8Ball_Project/8Ball_Project/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.01.11-18.45.39:558][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.01.11-18.45.39:623][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.01.11-18.45.39:623][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.01.11-18.45.39:623][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.01.11-18.45.39:624][  0]LogDerivedDataCache: Using Local data cache path C:/Users/johns/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.01.11-18.45.39:624][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.01.11-18.45.39:624][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.01.11-18.45.39:875][  0]LogSlate: Using FreeType 2.10.0
+[2021.01.11-18.45.39:958][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.01.11-18.45.40:562][  0]LogAssetRegistry: FAssetRegistry took 0.0423 seconds to start up
+[2021.01.11-18.45.56:644][  0]LogInit: Selected Device Profile: [Windows]
+[2021.01.11-18.46.00:229][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.01.11-18.46.00:229][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.01.11-18.46.00:229][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.01.11-18.46.00:229][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.01.11-18.46.00:257][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.01.11-18.46.01:182][  0]LogNetVersion: BA_Project 1.0.0, NetCL: 13144385, EngineNetVer: 14, GameNetVer: 0 (Checksum: 1708554116)
+[2021.01.11-18.46.15:287][  0]LogAISub: UAISubsystem::UAISubsystem AISubsystem (0000021A3BE3E980), frame # 0
+[2021.01.11-18.46.15:287][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000021A3BCC3B00), frame # 0
+[2021.01.11-18.46.15:433][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000021A3BE5A200), frame # 0
+[2021.01.11-18.46.16:323][  0]LogPackageLocalizationCache: Processed 18 localized package path(s) for 1 prioritized culture(s) in 0.213457 seconds
+[2021.01.11-18.46.16:354][  0]LogUObjectArray: 15814 objects as part of root set at end of initial load.
+[2021.01.11-18.46.16:354][  0]LogUObjectAllocator: 3939424 out of 0 bytes used by permanent object pool.
+[2021.01.11-18.46.16:354][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.01.11-18.46.23:280][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.01.11-18.46.23:320][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.01.11-18.46.24:113][  0]SourceControl: Source control is disabled
+[2021.01.11-18.46.24:130][  0]SourceControl: Source control is disabled
+[2021.01.11-18.46.24:199][  0]SourceControl: Source control is disabled
+[2021.01.11-18.46.24:222][  0]SourceControl: Source control is disabled
+[2021.01.11-18.46.24:253][  0]SourceControl: Source control is disabled
+[2021.01.11-18.46.26:448][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.01.11-18.46.26:542][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.01.11-18.46.26:542][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.01.11-18.46.26:802][  0]LogOcInput: OculusInput pre-init called
+[2021.01.11-18.46.26:867][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.01.11-18.46.26:868][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.01.11-18.46.28:551][  0]LogEngine: Initializing Engine...
+[2021.01.11-18.46.28:581][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.01.11-18.46.28:673][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.029 s
+[2021.01.11-18.46.28:803][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.01.11-18.46.29:358][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.01.11-18.46.29:359][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000021A40A7A200), frame # 0
+[2021.01.11-18.46.29:359][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000021A40A4BD80), frame # 0
+[2021.01.11-18.46.29:601][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.11-18.46.29:601][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.11-18.46.29:601][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.11-18.46.29:601][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.11-18.46.29:601][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.11-18.46.29:601][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.11-18.46.29:601][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.11-18.46.29:601][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.11-18.46.29:627][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.11-18.46.29:627][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.11-18.46.29:769][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.11-18.46.29:769][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.01.11-18.46.29:802][  0]LogAudioMixer: Display: Using Audio Device LU28R55 (NVIDIA High Definition Audio)
+[2021.01.11-18.46.29:819][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.11-18.46.29:821][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.11-18.46.29:838][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.11-18.46.29:861][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.11-18.46.29:863][  0]LogInit: FAudioDevice initialized.
+[2021.01.11-18.46.29:868][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.01.11-18.46.29:939][  0]LogDerivedDataCache: Saved boot cache 0.07s 76MB C:/Users/johns/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2021.01.11-18.46.29:939][  0]LogInit: Texture streaming: Enabled
+[2021.01.11-18.46.31:443][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.01.11-18.46.31:443][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.01.11-18.46.31:553][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.01.11-18.46.32:596][  0]LogInit: Transaction tracking system initialized
+[2021.01.11-18.46.36:657][  0]BlueprintLog: New page: Editor Load
+[2021.01.11-18.46.47:630][  0]LocalizationService: Localization service is disabled
+[2021.01.11-18.46.55:667][  0]LogFileCache: Scanning file cache for directory 'E:/Teesside University/Year 3 -  Teesside/Beta Arcade/Unreal Files/8Ball-Studios-Repo/8Ball_Project/8Ball_Project/Content/' took 0.06s
+[2021.01.11-18.46.55:667][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2021.01.11-18.46.55:667][  0]LogCook: Display: Mobile HDR setting 1
+[2021.01.11-18.47.00:903][  0]SourceControl: Source control is disabled
+[2021.01.11-18.47.00:931][  0]LogUnrealEdMisc: Loading editor; pre map load, took 123.424
+[2021.01.11-18.47.00:950][  0]Cmd: MAP LOAD FILE="E:/Teesside University/Year 3 -  Teesside/Beta Arcade/Unreal Files/8Ball-Studios-Repo/8Ball_Project/8Ball_Project/Content/Maps/L_Example.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.01.11-18.47.00:965][  0]LightingResults: New page: Lighting Build
+[2021.01.11-18.47.01:096][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.01.11-18.47.01:162][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.11-18.47.01:195][  0]MapCheck: New page: Map Check
+[2021.01.11-18.47.01:195][  0]LightingResults: New page: Lighting Build
+[2021.01.11-18.47.01:710][  0]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000021A40A7A200), frame # 0
+[2021.01.11-18.47.01:710][  0]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000021A40A4BD80), frame # 0
+[2021.01.11-18.47.01:711][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2021.01.11-18.47.04:002][  0]LogLinker: Warning: While loading 'E:/Teesside University/Year 3 -  Teesside/Beta Arcade/Unreal Files/8Ball-Studios-Repo/8Ball_Project/8Ball_Project/Content/Widgets/WBP_EndScreen.uasset' failed to load '/Game/Widgets/WBP_TempDeath': Can't find file.
+[2021.01.11-18.47.04:002][  0]LoadErrors: Failed to load /Game/Widgets/WBP_EndScreen.WBP_EndScreen_C Referenced by CharacterMesh0
+[2021.01.11-18.47.04:003][  0]LogLinker: Warning: While loading 'E:/Teesside University/Year 3 -  Teesside/Beta Arcade/Unreal Files/8Ball-Studios-Repo/8Ball_Project/8Ball_Project/Content/Widgets/WBP_EndScreen.uasset' failed to load '/Game/Widgets/WBP_TempDeath': Can't find file.
+[2021.01.11-18.47.04:003][  0]LoadErrors: Failed to load /Game/Widgets/WBP_EndScreen.WBP_EndScreen_C Referenced by CharacterMesh0
+[2021.01.11-18.47.04:003][  0]LogLinker: Warning: While loading 'E:/Teesside University/Year 3 -  Teesside/Beta Arcade/Unreal Files/8Ball-Studios-Repo/8Ball_Project/8Ball_Project/Content/Widgets/WBP_EndScreen.uasset' failed to load '/Game/Widgets/WBP_TempDeath': Can't find file.
+[2021.01.11-18.47.04:003][  0]LoadErrors: Failed to load /Game/Widgets/WBP_EndScreen.WBP_EndScreen_C Referenced by CharacterMesh0
+[2021.01.11-18.47.04:003][  0]LogLinker: Warning: While loading 'E:/Teesside University/Year 3 -  Teesside/Beta Arcade/Unreal Files/8Ball-Studios-Repo/8Ball_Project/8Ball_Project/Content/Widgets/WBP_EndScreen.uasset' failed to load '/Game/Widgets/WBP_TempDeath': Can't find file.
+[2021.01.11-18.47.04:003][  0]LoadErrors: Failed to load /Game/Widgets/WBP_EndScreen.WBP_EndScreen_C Referenced by CharacterMesh0
+[2021.01.11-18.47.04:003][  0]LogLinker: Warning: While loading 'E:/Teesside University/Year 3 -  Teesside/Beta Arcade/Unreal Files/8Ball-Studios-Repo/8Ball_Project/8Ball_Project/Content/Animation/AnimBP_ShootyBoi.uasset' failed to load '/Game/Widgets/WBP_TempDeath': Can't find file.
+[2021.01.11-18.47.04:003][  0]LoadErrors: Failed to load /Game/Widgets/WBP_TempDeath.WBP_TempDeath_C Referenced by CharacterMesh0
+[2021.01.11-18.47.04:003][  0]LogLinker: Warning: While loading 'E:/Teesside University/Year 3 -  Teesside/Beta Arcade/Unreal Files/8Ball-Studios-Repo/8Ball_Project/8Ball_Project/Content/Animation/AnimBP_ShootyBoi.uasset' failed to load '/Game/Widgets/WBP_TempDeath': Can't find file.
+[2021.01.11-18.47.04:003][  0]LoadErrors: Failed to load /Game/Widgets/WBP_TempDeath.WBP_TempDeath_C Referenced by CharacterMesh0
+[2021.01.11-18.47.04:003][  0]LogLinker: Warning: While loading 'E:/Teesside University/Year 3 -  Teesside/Beta Arcade/Unreal Files/8Ball-Studios-Repo/8Ball_Project/8Ball_Project/Content/Animation/AnimBP_ShootyBoi.uasset' failed to load '/Game/Widgets/WBP_TempDeath': Can't find file.
+[2021.01.11-18.47.04:003][  0]LoadErrors: Failed to load /Game/Widgets/WBP_TempDeath Referenced by CharacterMesh0
+[2021.01.11-18.47.04:003][  0]LogLinker: Warning: While loading 'E:/Teesside University/Year 3 -  Teesside/Beta Arcade/Unreal Files/8Ball-Studios-Repo/8Ball_Project/8Ball_Project/Content/Animation/AnimBP_ShootyBoi.uasset' failed to load '/Game/Widgets/WBP_TempDeath': Can't find file.
+[2021.01.11-18.47.04:004][  0]LoadErrors: Failed to load /Game/Widgets/WBP_TempDeath Referenced by CharacterMesh0
+[2021.01.11-18.47.04:004][  0]LogLinker: Warning: While loading 'E:/Teesside University/Year 3 -  Teesside/Beta Arcade/Unreal Files/8Ball-Studios-Repo/8Ball_Project/8Ball_Project/Content/Animation/AnimBP_ShootyBoi.uasset' failed to load '/Game/Widgets/WBP_TempDeath': Can't find file.
+[2021.01.11-18.47.04:004][  0]LoadErrors: Failed to load /Game/Widgets/WBP_TempDeath.WBP_TempDeath_C Referenced by CharacterMesh0
+[2021.01.11-18.47.04:004][  0]LogLinker: Warning: While loading 'E:/Teesside University/Year 3 -  Teesside/Beta Arcade/Unreal Files/8Ball-Studios-Repo/8Ball_Project/8Ball_Project/Content/Animation/AnimBP_ShootyBoi.uasset' failed to load '/Game/Widgets/WBP_TempDeath': Can't find file.
+[2021.01.11-18.47.04:004][  0]LoadErrors: Failed to load /Game/Widgets/WBP_TempDeath.WBP_TempDeath_C Referenced by CharacterMesh0
+[2021.01.11-18.47.07:631][  0]LogTexture: Display: Building textures: DamagPlaceHolderProper (AutoDXT, 1920X1080)
+[2021.01.11-18.47.07:888][  0]LogAIModule: Creating AISystem for world L_Example
+[2021.01.11-18.47.07:888][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000021A50165800), frame # 0
+[2021.01.11-18.47.07:888][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000021A2B825580), frame # 0
+[2021.01.11-18.47.08:215][  0]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/Room_3) is flushing async loading
+[2021.01.11-18.47.08:215][  0]LogStreaming: Display: Flushing async loaders.
+[2021.01.11-18.47.08:834][  0]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/Room_2) is flushing async loading
+[2021.01.11-18.47.08:916][  0]LogNavigation: Warning: Recreating dtNavMesh instance due mismatch in number of bytes required to store serialized maxTiles (520, 10 bits) vs calculated maxtiles (0, 1073741824 bits)
+[2021.01.11-18.47.08:916][  0]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.01.11-18.47.08:918][  0]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/Room_1) is flushing async loading
+[2021.01.11-18.47.09:144][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.01.11-18.47.09:277][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2021.01.11-18.47.09:277][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.01.11-18.47.09:278][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.549ms to complete.
+[2021.01.11-18.47.09:278][  0]LogFileHelpers: Loading map 'L_Example' took 8.328
+[2021.01.11-18.47.10:654][  0]LogUnrealEdMisc: Total Editor Startup Time, took 133.147
+[2021.01.11-18.47.11:278][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.11-18.47.11:288][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.11-18.47.11:293][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.11-18.47.11:297][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.11-18.47.11:373][  0]LogCollectionManager: Loaded 0 collections in 0.000857 seconds
+[2021.01.11-18.47.11:535][  0]LogFileCache: Scanning file cache for directory 'E:/Teesside University/Year 3 -  Teesside/Beta Arcade/Unreal Files/8Ball-Studios-Repo/8Ball_Project/8Ball_Project/Saved/Collections/' took 0.00s
+[2021.01.11-18.47.11:535][  0]LogFileCache: Scanning file cache for directory 'E:/Teesside University/Year 3 -  Teesside/Beta Arcade/Unreal Files/8Ball-Studios-Repo/8Ball_Project/8Ball_Project/Content/Developers/johns/Collections/' took 0.00s
+[2021.01.11-18.47.11:535][  0]LogFileCache: Scanning file cache for directory 'E:/Teesside University/Year 3 -  Teesside/Beta Arcade/Unreal Files/8Ball-Studios-Repo/8Ball_Project/8Ball_Project/Content/Collections/' took 0.00s
+[2021.01.11-18.47.11:535][  0]LogContentBrowser: Native class hierarchy populated in 0.0084 seconds. Added 3426 classes and 816 folders.
+[2021.01.11-18.47.11:673][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.01.11-18.47.12:658][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.01.11-18.47.12:734][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 0 folders.
+[2021.01.11-18.47.13:636][  0]LogSlate: Took 0.035224 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.01.11-18.47.13:738][  0]LogSlate: Took 0.037038 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.01.11-18.47.13:840][  0]LogSlate: Took 0.021418 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.01.11-18.47.14:190][  0]LogRenderer: Reallocating scene render targets to support 1080x524 Format 10 NumSamples 1 (Frame:1).
+[2021.01.11-18.47.14:815][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.01.11-18.47.14:815][  0]LogLoad: (Engine Initialization) Total time: 137.31 seconds
+[2021.01.11-18.47.14:815][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.01.11-18.47.15:037][  0]LogAssetRegistry: Asset discovery search completed in 94.4984 seconds
+[2021.01.11-18.47.15:040][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
+[2021.01.11-18.47.15:040][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.01.11-18.47.15:394][  0]LogSlate: Took 0.022462 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.01.11-18.47.15:485][  0]LogSlate: Took 0.036523 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.01.11-18.47.17:662][204]LogSlate: Window 'Message Log' being destroyed
+[2021.01.11-18.47.17:685][204]LogSlate: Window 'Message Log' being destroyed
+[2021.01.11-18.47.24:229][957]LogEditorViewport: Clicking on Actor (LMB): BP_BasicDoor_C (BP_BasicDoor5)
+[2021.01.11-18.47.43:132][153]LogSlate: Took 0.000305 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.01.11-18.47.43:779][153]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/L_PlaytestV3.L_PlaytestV3
+[2021.01.11-18.47.43:815][153]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2021.01.11-18.47.43:816][153]LightingResults: New page: Lighting Build
+[2021.01.11-18.47.43:816][153]LoadErrors: New page: Loading map: L_PlaytestV3.umap
+[2021.01.11-18.47.43:831][153]LogWorld: UWorld::CleanupWorld for L_Example, bSessionEnded=true, bCleanupResources=true
+[2021.01.11-18.47.43:831][153]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.11-18.47.43:831][153]LogWorld: UWorld::CleanupWorld for Room_3, bSessionEnded=true, bCleanupResources=true
+[2021.01.11-18.47.43:831][153]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.11-18.47.43:831][153]LogWorld: UWorld::CleanupWorld for Room_2, bSessionEnded=true, bCleanupResources=true
+[2021.01.11-18.47.43:831][153]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.11-18.47.43:831][153]LogWorld: UWorld::CleanupWorld for Room_1, bSessionEnded=true, bCleanupResources=true
+[2021.01.11-18.47.43:831][153]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.11-18.47.43:831][153]MapCheck: New page: Map Check
+[2021.01.11-18.47.43:831][153]LightingResults: New page: Lighting Build
+[2021.01.11-18.47.43:898][153]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000021A50165800), frame # 3153
+[2021.01.11-18.47.43:898][153]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000021A2B825580), frame # 3153
+[2021.01.11-18.47.43:900][153]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2021.01.11-18.47.43:926][153]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/l_AP_Lounge_FINAL) is flushing async loading
+[2021.01.11-18.47.43:926][153]LogStreaming: Display: Flushing async loaders.
+[2021.01.11-18.47.44:643][153]LogLinker: Warning: While loading 'E:/Teesside University/Year 3 -  Teesside/Beta Arcade/Unreal Files/8Ball-Studios-Repo/8Ball_Project/8Ball_Project/Content/Art_Team/Materials/MI_TrimWood.uasset' failed to load '/Game/StarterContent/Textures/T_Concrete_Poured_N': Can't find file.
+[2021.01.11-18.47.44:643][153]LogLinker: Warning: While loading 'E:/Teesside University/Year 3 -  Teesside/Beta Arcade/Unreal Files/8Ball-Studios-Repo/8Ball_Project/8Ball_Project/Content/Art_Team/Materials/MI_TrimWood.uasset' failed to load '/Game/StarterContent/Textures/T_Concrete_Poured_N': Can't find file.
+[2021.01.11-18.47.44:643][153]LogLinker: Warning: While loading 'E:/Teesside University/Year 3 -  Teesside/Beta Arcade/Unreal Files/8Ball-Studios-Repo/8Ball_Project/8Ball_Project/Content/Art_Team/Materials/MI_TrimWood.uasset' failed to load '/Game/StarterContent/Textures/T_Concrete_Poured_N': Can't find file.
+[2021.01.11-18.47.44:643][153]LogLinker: Warning: While loading 'E:/Teesside University/Year 3 -  Teesside/Beta Arcade/Unreal Files/8Ball-Studios-Repo/8Ball_Project/8Ball_Project/Content/Art_Team/Materials/MI_TrimWood.uasset' failed to load '/Game/StarterContent/Textures/T_Concrete_Poured_N': Can't find file.
+[2021.01.11-18.47.44:819][153]LogLinker: Warning: While loading 'E:/Teesside University/Year 3 -  Teesside/Beta Arcade/Unreal Files/8Ball-Studios-Repo/8Ball_Project/8Ball_Project/Content/Art_Team/Materials/MI_TrimWood.uasset' failed to load '/Game/StarterContent/Textures/T_Concrete_Poured_N': Can't find file.
+[2021.01.11-18.47.44:819][153]LoadErrors: Failed to load /Game/StarterContent/Textures/T_Concrete_Poured_N.T_Concrete_Poured_N Referenced by MI_TrimWood
+[2021.01.11-18.47.44:820][153]LogLinker: Warning: While loading 'E:/Teesside University/Year 3 -  Teesside/Beta Arcade/Unreal Files/8Ball-Studios-Repo/8Ball_Project/8Ball_Project/Content/Art_Team/Materials/MI_TrimWood.uasset' failed to load '/Game/StarterContent/Textures/T_Concrete_Poured_N': Can't find file.
+[2021.01.11-18.47.45:212][153]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/l_AP_FoyerFINAL) is flushing async loading
+[2021.01.11-18.47.45:464][153]LogLinker: Warning: While loading 'E:/Teesside University/Year 3 -  Teesside/Beta Arcade/Unreal Files/8Ball-Studios-Repo/8Ball_Project/8Ball_Project/Content/Art_Team/Materials/MASTERS/MI_DoubleDoorLarge.uasset' failed to load '/Game/StarterContent/Textures/T_Concrete_Poured_N': Can't find file.
+[2021.01.11-18.47.45:465][153]LogLinker: Warning: While loading 'E:/Teesside University/Year 3 -  Teesside/Beta Arcade/Unreal Files/8Ball-Studios-Repo/8Ball_Project/8Ball_Project/Content/Art_Team/Materials/MASTERS/MI_DoubleDoorLarge.uasset' failed to load '/Game/StarterContent/Textures/T_Concrete_Poured_N': Can't find file.
+[2021.01.11-18.47.45:465][153]LogLinker: Warning: While loading 'E:/Teesside University/Year 3 -  Teesside/Beta Arcade/Unreal Files/8Ball-Studios-Repo/8Ball_Project/8Ball_Project/Content/Art_Team/Materials/MASTERS/MI_DoubleDoorLarge.uasset' failed to load '/Game/StarterContent/Textures/T_Concrete_Poured_N': Can't find file.
+[2021.01.11-18.47.45:465][153]LogLinker: Warning: While loading 'E:/Teesside University/Year 3 -  Teesside/Beta Arcade/Unreal Files/8Ball-Studios-Repo/8Ball_Project/8Ball_Project/Content/Art_Team/Materials/MASTERS/MI_DoubleDoorLarge.uasset' failed to load '/Game/StarterContent/Textures/T_Concrete_Poured_N': Can't find file.
+[2021.01.11-18.47.46:723][153]LogLinker: Warning: While loading 'E:/Teesside University/Year 3 -  Teesside/Beta Arcade/Unreal Files/8Ball-Studios-Repo/8Ball_Project/8Ball_Project/Content/Art_Team/Materials/MASTERS/MI_DoubleDoorLarge.uasset' failed to load '/Game/StarterContent/Textures/T_Concrete_Poured_N': Can't find file.
+[2021.01.11-18.47.46:723][153]LoadErrors: Failed to load /Game/StarterContent/Textures/T_Concrete_Poured_N.T_Concrete_Poured_N Referenced by MI_DoubleDoorLarge
+[2021.01.11-18.47.46:723][153]LogLinker: Warning: While loading 'E:/Teesside University/Year 3 -  Teesside/Beta Arcade/Unreal Files/8Ball-Studios-Repo/8Ball_Project/8Ball_Project/Content/Art_Team/Materials/MASTERS/MI_DoubleDoorLarge.uasset' failed to load '/Game/StarterContent/Textures/T_Concrete_Poured_N': Can't find file.
+[2021.01.11-18.47.47:270][153]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/l_AP_SacraficeRoom2) is flushing async loading
+[2021.01.11-18.47.48:299][153]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/L_AP_Library) is flushing async loading
+[2021.01.11-18.47.48:908][153]LogMaterial: Display: Missing cached shader map for material lambert3, compiling. 
+[2021.01.11-18.47.48:933][153]LogMaterial: Warning: E:\Teesside University\Year 3 -  Teesside\Beta Arcade\Unreal Files\8Ball-Studios-Repo\8Ball_Project\8Ball_Project\Content\Art_Team\Models\Enviro\Library\lambert3.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.01.11-18.47.48:933][153]LogMaterial: Display: 	(Node TextureSample) TextureSample> Sampler type is Color, should be Linear Color for /Game/Art_Team/Models/Enviro/Library/Trim_1_basecolor.Trim_1_basecolor
+[2021.01.11-18.47.49:233][153]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.01.11-18.47.49:233][153]LogAIModule: Creating AISystem for world L_PlaytestV3
+[2021.01.11-18.47.49:233][153]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000021A9AA88C00), frame # 3153
+[2021.01.11-18.47.49:233][153]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000021A97AD5A80), frame # 3153
+[2021.01.11-18.47.49:443][153]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2021.01.11-18.47.49:510][153]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.01.11-18.47.49:511][153]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.391ms to complete.
+[2021.01.11-18.47.49:511][153]LogFileHelpers: Loading map 'L_PlaytestV3' took 5.695
+[2021.01.11-18.47.49:658][153]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2021.01.11-18.47.51:050][208]LogSlate: Window 'Message Log' being destroyed
+[2021.01.11-18.47.51:054][208]LogSlate: Window 'Message Log' being destroyed
+[2021.01.11-18.47.55:831][468]LogEditorViewport: Clicking on Actor (LMB): PF_ChesterfieldChair_JJ1_C (PF_ChesterfieldChair_JJ1)
+[2021.01.11-18.47.57:771][585]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Art_Team/Models/Enviro/Prefabs/PF_CandlesB_TH.PF_CandlesB_TH
+[2021.01.11-18.47.58:264][585]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 125 classes and 0 folders.
+[2021.01.11-18.47.59:532][585]LogSlate: Took 0.015544 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.01.11-18.48.02:492][745]LogRenderer: Reallocating scene render targets to support 1528x1000 Format 10 NumSamples 1 (Frame:68).
+[2021.01.11-18.48.03:335][789]LogSlate: Took 0.011825 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.01.11-18.48.07:504][990]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Art_Team/Models/Enviro/Prefabs/PF_ChesterfieldChair_JJ1.PF_ChesterfieldChair_JJ1
+[2021.01.11-18.48.19:317][553]BlueprintLog: New page: Compile PF_ChesterfieldChair_JJ1
+[2021.01.11-18.48.19:399][553]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2021.01.11-18.48.21:416][647]LogSavePackage: Moving 'E:/Teesside University/Year 3 -  Teesside/Beta Arcade/Unreal Files/8Ball-Studios-Repo/8Ball_Project/8Ball_Project/Saved/PF_ChesterfieldChair_JJ15F3F0C3A4ED115093D555CA235A339E2.tmp' to 'E:/Teesside University/Year 3 -  Teesside/Beta Arcade/Unreal Files/8Ball-Studios-Repo/8Ball_Project/8Ball_Project/Content/Art_Team/Models/Enviro/Prefabs/PF_ChesterfieldChair_JJ1.uasset'
+[2021.01.11-18.48.21:468][647]AssetCheck: New page: Asset Save: PF_ChesterfieldChair_JJ1
+[2021.01.11-18.48.21:468][647]LogContentValidation: Display: Validating Blueprint /Game/Art_Team/Models/Enviro/Prefabs/PF_ChesterfieldChair_JJ1.PF_ChesterfieldChair_JJ1
+[2021.01.11-18.48.24:824][816]LogEditorViewport: Clicking on Actor (LMB): PF_ChesterfieldSofaMedium_JJ1_C (PF_ChesterfieldSofaLarge_JJ3)
+[2021.01.11-18.48.27:054][947]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Art_Team/Models/Enviro/Prefabs/PF_ChesterfieldSofaMedium_JJ1.PF_ChesterfieldSofaMedium_JJ1
+[2021.01.11-18.48.33:283][280]BlueprintLog: New page: Compile PF_ChesterfieldSofaMedium_JJ1
+[2021.01.11-18.48.33:327][280]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2021.01.11-18.48.33:766][302]LogSavePackage: Moving 'E:/Teesside University/Year 3 -  Teesside/Beta Arcade/Unreal Files/8Ball-Studios-Repo/8Ball_Project/8Ball_Project/Saved/PF_ChesterfieldSofaMedium_JJ18A43EF574C3CD1D0402DB080DDD4DEB7.tmp' to 'E:/Teesside University/Year 3 -  Teesside/Beta Arcade/Unreal Files/8Ball-Studios-Repo/8Ball_Project/8Ball_Project/Content/Art_Team/Models/Enviro/Prefabs/PF_ChesterfieldSofaMedium_JJ1.uasset'
+[2021.01.11-18.48.33:853][302]AssetCheck: New page: Asset Save: PF_ChesterfieldSofaMedium_JJ1
+[2021.01.11-18.48.33:853][302]LogContentValidation: Display: Validating Blueprint /Game/Art_Team/Models/Enviro/Prefabs/PF_ChesterfieldSofaMedium_JJ1.PF_ChesterfieldSofaMedium_JJ1
+[2021.01.11-18.48.36:669][441]LogEditorViewport: Clicking on Actor (LMB): PF_ChesterfieldSofaLarge_JJ_C (PF_ChesterfieldSofaLarge_JJ2)
+[2021.01.11-18.48.37:987][495]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Art_Team/Models/Enviro/Prefabs/PF_ChesterfieldSofaLarge_JJ.PF_ChesterfieldSofaLarge_JJ
+[2021.01.11-18.48.44:665][754]BlueprintLog: New page: Compile PF_ChesterfieldSofaLarge_JJ
+[2021.01.11-18.48.44:722][754]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2021.01.11-18.48.45:104][768]LogSavePackage: Moving 'E:/Teesside University/Year 3 -  Teesside/Beta Arcade/Unreal Files/8Ball-Studios-Repo/8Ball_Project/8Ball_Project/Saved/PF_ChesterfieldSofaLarge_JJ0EA9D8BA416BEC0F624B1B87498821A9.tmp' to 'E:/Teesside University/Year 3 -  Teesside/Beta Arcade/Unreal Files/8Ball-Studios-Repo/8Ball_Project/8Ball_Project/Content/Art_Team/Models/Enviro/Prefabs/PF_ChesterfieldSofaLarge_JJ.uasset'
+[2021.01.11-18.48.45:120][768]AssetCheck: New page: Asset Save: PF_ChesterfieldSofaLarge_JJ
+[2021.01.11-18.48.45:120][768]LogContentValidation: Display: Validating Blueprint /Game/Art_Team/Models/Enviro/Prefabs/PF_ChesterfieldSofaLarge_JJ.PF_ChesterfieldSofaLarge_JJ
+[2021.01.11-18.48.47:856][873]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2021.01.11-18.48.47:856][873]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.11-18.48.48:469][896]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.01.11-18.48.48:469][896]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2021.01.11-18.48.48:469][896]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.11-18.48.48:940][911]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.01.11-18.48.48:940][911]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2021.01.11-18.48.48:940][911]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.11-18.48.49:408][933]LogSlate: Window 'PF_ChesterfieldSofaLarge_JJ' being destroyed
+[2021.01.11-18.48.49:451][933]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.01.11-18.48.49:451][933]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2021.01.11-18.48.49:451][933]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.11-18.48.52:787][139]Cmd: STAT FPS
+[2021.01.11-18.49.01:029][565]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BookCase_500x500)
+[2021.01.11-18.49.05:312][834]LogEditorViewport: Clicking on Actor (LMB): Bp_Book_2_C (Bp_Book_30)
+[2021.01.11-18.49.15:501][369]Cmd: TRANSACTION UNDO
+[2021.01.11-18.49.15:501][369]LogEditorTransaction: Undo Move Actors
+[2021.01.11-18.49.17:073][427]LogEditorViewport: Clicking on Actor (LMB): Bp_Book_2_C (Bp_Book_19)
+[2021.01.11-18.49.17:788][460]LogEditorViewport: Clicking on Actor (context menu): Bp_Book_2_C (Bp_Book_19)
+[2021.01.11-18.49.34:162][276]LogEditorViewport: Clicking on Actor (LMB): Bp_Book_2_C (Bp_Book_19)
+[2021.01.11-18.49.46:186][963]LogEditorViewport: Clicking on Actor (LMB): Bp_Book_2_C (Bp_Book_19)
+[2021.01.11-18.49.46:548][981]LogEditorViewport: Clicking on Actor (context menu): Bp_Book_2_C (Bp_Book_19)
+[2021.01.11-18.50.18:219][479]MapCheck: New page: Map Check
+[2021.01.11-18.50.18:670][479]Cmd: MAP REBUILD ALLVISIBLE
+[2021.01.11-18.50.18:670][479]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2021.01.11-18.50.18:747][479]LogCrowdFollowing: Error: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2021.01.11-18.50.19:111][479]LogWorld: UWorld::CleanupWorld for L_PlaytestV3, bSessionEnded=true, bCleanupResources=false
+[2021.01.11-18.50.19:111][479]LogWorld: UWorld::CleanupWorld for l_AP_Lounge_FINAL, bSessionEnded=true, bCleanupResources=false
+[2021.01.11-18.50.19:111][479]LogWorld: UWorld::CleanupWorld for l_AP_FoyerFINAL, bSessionEnded=true, bCleanupResources=false
+[2021.01.11-18.50.19:111][479]LogWorld: UWorld::CleanupWorld for l_AP_SacraficeRoom2, bSessionEnded=true, bCleanupResources=false
+[2021.01.11-18.50.19:111][479]LogWorld: UWorld::CleanupWorld for L_AP_Library, bSessionEnded=true, bCleanupResources=false
+[2021.01.11-18.50.20:640][479]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2021.01.11-18.50.20:640][479]LogNavigationDataBuild: Display:    Building navigation data using PHYSICS_INTERFACE_PHYSX.
+[2021.01.11-18.50.20:640][479]LogNavigationDataBuild: Display:    Building navigation data using WITH_PHYSX.
+[2021.01.11-18.50.20:650][479]LogNavigationDataBuild: Display:    Building NavData:  Name Default class /Script/NavigationSystem.RecastNavMesh agent radius 35.0.
+[2021.01.11-18.50.20:684][479]LogNavigationDataBuild: Display: UNavigationSystemV1::Build total execution time: 0.04s
+[2021.01.11-18.50.20:758][479]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2021.01.11-18.50.20:788][479]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.01.11-18.50.20:826][479]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.01.11-18.50.20:827][479]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.01.11-18.50.20:828][479]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.01.11-18.50.20:829][479]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.01.11-18.50.20:832][479]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.01.11-18.50.20:833][479]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.01.11-18.50.20:835][479]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 12
+[2021.01.11-18.50.20:835][479]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 11
+[2021.01.11-18.50.20:835][479]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 10
+[2021.01.11-18.50.20:835][479]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 9
+[2021.01.11-18.50.20:835][479]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 8
+[2021.01.11-18.50.20:835][479]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 7
+[2021.01.11-18.50.20:835][479]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 6
+[2021.01.11-18.50.20:835][479]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 5
+[2021.01.11-18.50.20:835][479]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 4
+[2021.01.11-18.50.20:835][479]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 3
+[2021.01.11-18.50.20:835][479]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 2
+[2021.01.11-18.50.20:835][479]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 1
+[2021.01.11-18.50.20:835][479]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.01.11-18.50.20:837][479]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.01.11-18.50.20:838][479]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.01.11-18.50.20:839][479]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.01.11-18.50.20:840][479]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.01.11-18.50.20:842][479]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.01.11-18.50.20:843][479]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.01.11-18.50.20:844][479]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.01.11-18.50.20:847][479]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. Is special engine material.
+[2021.01.11-18.50.20:988][479]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.01.11-18.50.20:989][479]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.01.11-18.50.20:990][479]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.01.11-18.50.20:991][479]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.01.11-18.50.20:993][479]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.01.11-18.50.20:994][479]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.01.11-18.50.20:996][479]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.01.11-18.50.20:997][479]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.01.11-18.50.20:998][479]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.01.11-18.50.20:999][479]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.01.11-18.50.21:000][479]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.01.11-18.50.21:002][479]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.01.11-18.50.21:003][479]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.01.11-18.50.21:004][479]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.01.11-18.50.21:006][479]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.01.11-18.50.21:007][479]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.01.11-18.50.21:008][479]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.01.11-18.50.21:009][479]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.01.11-18.50.21:010][479]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.01.11-18.50.21:011][479]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.01.11-18.50.21:012][479]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.01.11-18.50.21:013][479]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.01.11-18.50.21:014][479]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.01.11-18.50.21:015][479]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.01.11-18.50.21:017][479]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.01.11-18.50.21:018][479]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.01.11-18.50.25:014][479]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 120
+[2021.01.11-18.50.25:014][479]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 119
+[2021.01.11-18.50.25:014][479]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 118
+[2021.01.11-18.50.25:014][479]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 117
+[2021.01.11-18.50.25:014][479]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 116
+[2021.01.11-18.50.25:014][479]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 115
+[2021.01.11-18.50.25:014][479]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 114
+[2021.01.11-18.50.25:014][479]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 113
+[2021.01.11-18.50.25:014][479]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 112
+[2021.01.11-18.50.25:014][479]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 111
+[2021.01.11-18.50.25:014][479]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 110
+[2021.01.11-18.50.25:014][479]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 109
+[2021.01.11-18.50.25:014][479]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 108
+[2021.01.11-18.50.25:014][479]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 107
+[2021.01.11-18.50.25:014][479]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 106
+[2021.01.11-18.50.25:014][479]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 105
+[2021.01.11-18.50.25:014][479]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 104
+[2021.01.11-18.50.25:014][479]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 103
+[2021.01.11-18.50.25:014][479]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 102
+[2021.01.11-18.50.25:014][479]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 101
+[2021.01.11-18.50.25:014][479]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 100
+[2021.01.11-18.50.25:014][479]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 99
+[2021.01.11-18.50.25:014][479]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 98
+[2021.01.11-18.50.25:014][479]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 97
+[2021.01.11-18.50.25:014][479]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 96
+[2021.01.11-18.50.25:014][479]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 95
+[2021.01.11-18.50.25:014][479]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 94
+[2021.01.11-18.50.25:014][479]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 93
+[2021.01.11-18.50.25:014][479]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 92
+[2021.01.11-18.50.25:014][479]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 91
+[2021.01.11-18.50.25:014][479]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 90
+[2021.01.11-18.50.25:014][479]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 89
+[2021.01.11-18.50.25:014][479]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 88
+[2021.01.11-18.50.25:014][479]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 87
+[2021.01.11-18.50.25:014][479]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 86
+[2021.01.11-18.50.25:014][479]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 85
+[2021.01.11-18.50.25:014][479]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 84
+[2021.01.11-18.50.25:014][479]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 83
+[2021.01.11-18.50.25:014][479]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 82
+[2021.01.11-18.50.25:014][479]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 81
+[2021.01.11-18.50.25:014][479]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 80
+[2021.01.11-18.50.25:015][479]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 79
+[2021.01.11-18.50.25:015][479]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 78
+[2021.01.11-18.50.25:015][479]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 77
+[2021.01.11-18.50.25:015][479]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 76
+[2021.01.11-18.50.25:015][479]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 75
+[2021.01.11-18.50.25:015][479]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 74
+[2021.01.11-18.50.25:015][479]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 73
+[2021.01.11-18.50.25:015][479]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 72
+[2021.01.11-18.50.25:015][479]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 71
+[2021.01.11-18.50.25:015][479]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 70
+[2021.01.11-18.50.25:015][479]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 69
+[2021.01.11-18.50.25:015][479]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 68
+[2021.01.11-18.50.25:015][479]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 67
+[2021.01.11-18.50.25:015][479]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 66
+[2021.01.11-18.50.25:015][479]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 65
+[2021.01.11-18.50.25:015][479]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 64
+[2021.01.11-18.50.25:015][479]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 63
+[2021.01.11-18.50.25:015][479]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 62
+[2021.01.11-18.50.25:015][479]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 61
+[2021.01.11-18.50.25:015][479]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 60
+[2021.01.11-18.50.25:015][479]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 59
+[2021.01.11-18.50.25:015][479]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 58
+[2021.01.11-18.50.25:015][479]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 57
+[2021.01.11-18.50.25:015][479]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 56
+[2021.01.11-18.50.25:015][479]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 55
+[2021.01.11-18.50.25:015][479]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 54
+[2021.01.11-18.50.25:015][479]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 53
+[2021.01.11-18.50.25:015][479]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 52
+[2021.01.11-18.50.25:015][479]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 51
+[2021.01.11-18.50.25:015][479]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 50
+[2021.01.11-18.50.25:015][479]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 49
+[2021.01.11-18.50.25:015][479]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 48
+[2021.01.11-18.50.25:015][479]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 47
+[2021.01.11-18.50.25:015][479]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 46
+[2021.01.11-18.50.25:015][479]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 45
+[2021.01.11-18.50.25:015][479]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 44
+[2021.01.11-18.50.25:015][479]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 43
+[2021.01.11-18.50.25:015][479]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 42
+[2021.01.11-18.50.25:015][479]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 41
+[2021.01.11-18.50.25:015][479]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 40
+[2021.01.11-18.50.25:015][479]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 39
+[2021.01.11-18.50.25:015][479]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 38
+[2021.01.11-18.50.25:015][479]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 37
+[2021.01.11-18.50.25:015][479]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 36
+[2021.01.11-18.50.25:015][479]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 35
+[2021.01.11-18.50.25:015][479]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 34
+[2021.01.11-18.50.25:015][479]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 33
+[2021.01.11-18.50.25:015][479]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 32
+[2021.01.11-18.50.25:015][479]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 31
+[2021.01.11-18.50.25:015][479]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 30
+[2021.01.11-18.50.25:015][479]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 29
+[2021.01.11-18.50.25:015][479]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 28
+[2021.01.11-18.50.25:015][479]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 27
+[2021.01.11-18.50.25:015][479]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 26
+[2021.01.11-18.50.25:015][479]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 25
+[2021.01.11-18.50.25:015][479]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 24
+[2021.01.11-18.50.25:015][479]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 23
+[2021.01.11-18.50.25:015][479]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 22
+[2021.01.11-18.50.25:015][479]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 21
+[2021.01.11-18.50.25:015][479]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 20
+[2021.01.11-18.50.25:015][479]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 19
+[2021.01.11-18.50.25:015][479]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 18
+[2021.01.11-18.50.25:015][479]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 17
+[2021.01.11-18.50.25:015][479]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 16
+[2021.01.11-18.50.25:015][479]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 15
+[2021.01.11-18.50.25:015][479]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 14
+[2021.01.11-18.50.25:016][479]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 13
+[2021.01.11-18.50.25:016][479]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 12
+[2021.01.11-18.50.25:016][479]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 11
+[2021.01.11-18.50.25:016][479]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 10
+[2021.01.11-18.50.25:016][479]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 9
+[2021.01.11-18.50.25:016][479]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 8
+[2021.01.11-18.50.25:016][479]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 7
+[2021.01.11-18.50.25:016][479]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 6
+[2021.01.11-18.50.25:016][479]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 5
+[2021.01.11-18.50.25:016][479]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 4
+[2021.01.11-18.50.25:016][479]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 3
+[2021.01.11-18.50.25:016][479]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 2
+[2021.01.11-18.50.25:016][479]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 1
+[2021.01.11-18.50.25:016][479]TextureStreamingBuild: Display: Compiling optional shaders took 4.247 seconds.
+[2021.01.11-18.50.25:178][479]LogLevel: Display: Export Material TexCoord Scales took 0.161 seconds.
+[2021.01.11-18.50.25:214][479]TextureStreamingBuild: Display: Build Texture Streaming took 0.036 seconds.
+[2021.01.11-18.50.25:242][479]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2021.01.11-18.50.25:282][479]LightingResults: New page: Lighting Build - 11 Jan 2021, 18:50:25
+[2021.01.11-18.50.25:497][479]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2021.01.11-18.50.25:558][479]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2021.01.11-18.50.25:569][479]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2021.01.11-18.50.26:089][479]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2021.01.11-18.50.26:089][479]LogSwarmInterface: [TryOpenConnection] Local Process ID is 13384
+[2021.01.11-18.50.33:009][479]LightingResults: Warning: Both a legacy AtmosphericFog and a new SkyAtmosphere wants to register. Lightmass will not consider the legacy component.
+[2021.01.11-18.50.33:040][479]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2021.01.11-18.50.33:040][479]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2021.01.11-18.50.33:040][479]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2021.01.11-18.50.33:040][479]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2021.01.11-18.50.33:040][479]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2021.01.11-18.50.33:374][479]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2021.01.11-18.50.33:374][479]MapCheck: New page: L_PlaytestV3 - 11 Jan 2021, 18:50:33
+[2021.01.11-18.50.33:374][479]MapCheck: Error: WorldInfo_0 Maps need lighting rebuilt 
+[2021.01.11-18.50.33:411][479]MapCheck: Error: SkyAtmosphere_5 A SkyAtmosphere and a legacy AtmosphericFog components are both active, we recommend to have only one enabled per world. 
+[2021.01.11-18.50.33:416][479]MapCheck: Warning: SM_TEST_5 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2021.01.11-18.50.33:417][479]MapCheck: Map check complete: 2 Error(s), 1 Warning(s), took 43.209ms to complete.
+[2021.01.11-18.50.33:419][479]LogEditorBuildUtils: Build time 0:15
+[2021.01.11-18.50.33:784][479]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_CorridoorWall_Stretch, compiling. 
+[2021.01.11-18.50.33:811][479]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_CorridoorWall_Stretch, compiling. 
+[2021.01.11-18.50.33:985][479]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 4
+[2021.01.11-18.50.33:985][479]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 3
+[2021.01.11-18.50.33:985][479]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 2
+[2021.01.11-18.50.33:985][479]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 1
+[2021.01.11-18.50.33:999][480]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_CloudWoodBase_Inst1, compiling. 
+[2021.01.11-18.50.34:003][480]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 2
+[2021.01.11-18.50.34:003][480]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 1
+[2021.01.11-18.50.34:003][480]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_CloudWoodBase_Inst1, compiling. 
+[2021.01.11-18.50.34:079][480]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 2
+[2021.01.11-18.50.34:079][480]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 1
+[2021.01.11-18.50.34:327][483]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Ceiling_Inner, compiling. 
+[2021.01.11-18.50.34:329][483]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Ceiling_Inner, compiling. 
+[2021.01.11-18.50.34:332][483]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Ceiling_Outer, compiling. 
+[2021.01.11-18.50.34:334][483]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Ceiling_Outer, compiling. 
+[2021.01.11-18.50.34:346][484]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 8
+[2021.01.11-18.50.34:346][484]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 7
+[2021.01.11-18.50.34:346][484]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 6
+[2021.01.11-18.50.34:346][484]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 5
+[2021.01.11-18.50.34:346][484]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 4
+[2021.01.11-18.50.34:346][484]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 3
+[2021.01.11-18.50.34:346][484]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 2
+[2021.01.11-18.50.34:346][484]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 1
+[2021.01.11-18.50.34:349][484]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Base_Col_Mat_Inst, compiling. 
+[2021.01.11-18.50.34:352][484]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Base_Col_Mat_Inst, compiling. 
+[2021.01.11-18.50.34:356][484]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 2
+[2021.01.11-18.50.34:356][484]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 1
+[2021.01.11-18.50.34:356][484]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Books_BakePlane, compiling. 
+[2021.01.11-18.50.34:359][484]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 2
+[2021.01.11-18.50.34:360][484]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 1
+[2021.01.11-18.50.34:360][484]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Books_BakePlane, compiling. 
+[2021.01.11-18.50.34:363][484]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Books_BakePlane, compiling. 
+[2021.01.11-18.50.35:089][486]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 6
+[2021.01.11-18.50.35:089][486]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 5
+[2021.01.11-18.50.35:089][486]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 4
+[2021.01.11-18.50.35:089][486]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 3
+[2021.01.11-18.50.35:089][486]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 2
+[2021.01.11-18.50.35:089][486]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 1
+[2021.01.11-18.50.36:385][520]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2021.01.11-18.50.37:427][546]LogSlate: Window 'Message Log' being destroyed
+[2021.01.11-18.50.37:432][546]LogSlate: Window 'Message Log' being destroyed
+[2021.01.11-18.51.32:867][ 45]LogSlate: Took 0.000371 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.01.11-18.52.04:831][149]LightingResults: Warning: SM_Top_platform_RH Object has overlapping UVs.
+[2021.01.11-18.52.04:831][149]LightingResults: SM_Top_platform_RH Lightmap UV are overlapping by 31.5%. Please adjust content - Enable Error Coloring to visualize.
+[2021.01.11-18.52.06:043][180]LightingResults: Warning: SM_Accent_trim_Plane_5x100_RH Object has wrapping UVs.
+[2021.01.11-18.53.21:377][815]LogEditorViewport: Clicking on Actor (LMB): BP_BasicDoor_C (BP_BasicDoor3)
+[2021.01.11-18.53.23:202][850]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/KyleStuff/BP_BasicDoor.BP_BasicDoor
+[2021.01.11-18.53.32:922][ 45]LightingResults: Warning: SM_Side_wall Object has overlapping UVs.
+[2021.01.11-18.53.32:922][ 45]LightingResults: SM_Side_wall Lightmap UV are overlapping by 1.7%. Please adjust content - Enable Error Coloring to visualize.
+[2021.01.11-18.53.35:775][108]Cmd: SELECT NONE
+[2021.01.11-18.53.37:672][173]LightingResults: Warning: SM_Accent_trim_Plane_5x100_RH Object has wrapping UVs.
+[2021.01.11-18.53.49:214][581]LightingResults: Warning: SM_Accent_trim_Plane_5x100_RH Object has wrapping UVs.
+[2021.01.11-18.53.49:595][596]LightingResults: Warning: SM_Accent_trim_Plane_5x100_RH Object has wrapping UVs.
+[2021.01.11-18.53.51:556][658]LogSavePackage: Moving 'E:/Teesside University/Year 3 -  Teesside/Beta Arcade/Unreal Files/8Ball-Studios-Repo/8Ball_Project/8Ball_Project/Saved/BP_BasicDoor7CA34F864F00218ED8E719BF4512399D.tmp' to 'E:/Teesside University/Year 3 -  Teesside/Beta Arcade/Unreal Files/8Ball-Studios-Repo/8Ball_Project/8Ball_Project/Content/Blueprints/KyleStuff/BP_BasicDoor.uasset'
+[2021.01.11-18.53.51:580][658]AssetCheck: New page: Asset Save: BP_BasicDoor
+[2021.01.11-18.53.51:580][658]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/KyleStuff/BP_BasicDoor.BP_BasicDoor
+[2021.01.11-18.53.51:968][671]LightingResults: Warning: SM_Accent_trim_Plane_5x100_RH Object has wrapping UVs.
+[2021.01.11-18.53.52:712][699]LogSlate: Window 'BP_BasicDoor' being destroyed
+[2021.01.11-18.53.52:720][699]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2021.01.11-18.53.52:720][699]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.11-18.53.53:110][710]LightingResults: Warning: SM_Accent_trim_Plane_5x100_RH Object has wrapping UVs.
+[2021.01.11-18.54.07:303][222]LightingResults: Warning: SM_Accent_trim_Plane_5x100_RH Object has wrapping UVs.
+[2021.01.11-18.54.27:873][888]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_SkySphere)
+[2021.01.11-18.55.23:541][948]LightingResults: Warning: SM_Side_wall Object has overlapping UVs.
+[2021.01.11-18.55.23:541][948]LightingResults: SM_Side_wall Lightmap UV are overlapping by 1.7%. Please adjust content - Enable Error Coloring to visualize.
+[2021.01.11-18.56.39:804][ 66]LightingResults: Warning: SM_Accent_trim_Plane_5x100_RH Object has wrapping UVs.
+[2021.01.11-18.56.40:936][100]LightingResults: Warning: SM_Accent_trim_Plane_5x100_RH Object has wrapping UVs.
+[2021.01.11-18.56.44:068][245]LightingResults: Warning: SM_Accent_trim_Plane_5x100_RH Object has wrapping UVs.
+[2021.01.11-18.57.01:578][ 81]LightingResults: Warning: SM_Accent_trim_Plane_5x100_RH Object has wrapping UVs.
+[2021.01.11-18.57.20:550][965]LightingResults: Warning: SM_Accent_trim_Plane_5x100_RH Object has wrapping UVs.
+[2021.01.11-18.57.21:605][  3]LightingResults: Warning: SM_Accent_trim_Plane_5x100_RH Object has wrapping UVs.
+[2021.01.11-18.57.22:502][ 36]LightingResults: Warning: SM_Accent_trim_Plane_5x100_RH Object has wrapping UVs.
+[2021.01.11-18.57.23:819][ 84]LightingResults: Warning: SM_Accent_trim_Plane_5x100_RH Object has wrapping UVs.
+[2021.01.11-18.57.25:631][147]LightingResults: Warning: SM_Accent_trim_Plane_5x100_RH Object has wrapping UVs.
+[2021.01.11-18.57.30:267][316]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WoodenWallInverseCorner_4M_JJ4)
+[2021.01.11-18.57.35:972][500]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_Tile_JJ60)
+[2021.01.11-18.57.39:860][634]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_Tile_JJ88)
+[2021.01.11-18.57.40:879][669]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_Tile_JJ89)
+[2021.01.11-18.57.44:471][796]LogMaterial: Display: Missing cached shader map for material DebugViewMode ComplexityAccumulate, compiling. Is special engine material.
+[2021.01.11-18.57.44:494][796]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 75
+[2021.01.11-18.57.44:494][796]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 74
+[2021.01.11-18.57.44:494][796]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 73
+[2021.01.11-18.57.44:494][796]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 72
+[2021.01.11-18.57.44:494][796]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 71
+[2021.01.11-18.57.44:494][796]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 70
+[2021.01.11-18.57.44:494][796]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 69
+[2021.01.11-18.57.44:494][796]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 68
+[2021.01.11-18.57.44:494][796]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 67
+[2021.01.11-18.57.44:494][796]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 66
+[2021.01.11-18.57.44:494][796]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 65
+[2021.01.11-18.57.44:494][796]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 64
+[2021.01.11-18.57.46:181][873]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 63
+[2021.01.11-18.57.46:251][876]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 62
+[2021.01.11-18.57.46:313][879]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 61
+[2021.01.11-18.57.46:336][880]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 60
+[2021.01.11-18.57.46:336][880]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 59
+[2021.01.11-18.57.46:401][883]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 58
+[2021.01.11-18.57.46:423][884]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 57
+[2021.01.11-18.57.46:490][887]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 56
+[2021.01.11-18.57.46:512][888]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 55
+[2021.01.11-18.57.46:512][888]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 54
+[2021.01.11-18.57.46:598][892]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 53
+[2021.01.11-18.57.46:664][895]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 52
+[2021.01.11-18.57.46:664][895]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 51
+[2021.01.11-18.57.46:686][896]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 50
+[2021.01.11-18.57.46:686][896]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 49
+[2021.01.11-18.57.46:686][896]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 48
+[2021.01.11-18.57.46:708][897]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 47
+[2021.01.11-18.57.46:744][899]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 46
+[2021.01.11-18.57.46:744][899]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 45
+[2021.01.11-18.57.46:811][902]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 44
+[2021.01.11-18.57.46:811][902]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 43
+[2021.01.11-18.57.46:834][903]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 42
+[2021.01.11-18.57.46:834][903]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 41
+[2021.01.11-18.57.46:859][904]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 40
+[2021.01.11-18.57.46:888][905]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 39
+[2021.01.11-18.57.46:932][907]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 38
+[2021.01.11-18.57.46:955][908]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 37
+[2021.01.11-18.57.46:977][909]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 36
+[2021.01.11-18.57.46:998][910]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 35
+[2021.01.11-18.57.46:998][910]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 34
+[2021.01.11-18.57.47:021][911]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 33
+[2021.01.11-18.57.47:068][913]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 32
+[2021.01.11-18.57.47:068][913]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 31
+[2021.01.11-18.57.47:089][914]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 30
+[2021.01.11-18.57.47:114][915]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 29
+[2021.01.11-18.57.47:118][915]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 28
+[2021.01.11-18.57.47:156][916]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 27
+[2021.01.11-18.57.47:198][918]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 26
+[2021.01.11-18.57.47:202][918]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 25
+[2021.01.11-18.57.47:202][918]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 24
+[2021.01.11-18.57.47:221][919]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 23
+[2021.01.11-18.57.47:242][920]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 22
+[2021.01.11-18.57.47:269][921]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 21
+[2021.01.11-18.57.47:287][922]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 20
+[2021.01.11-18.57.47:309][923]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 19
+[2021.01.11-18.57.47:309][923]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 18
+[2021.01.11-18.57.47:335][924]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 17
+[2021.01.11-18.57.47:355][925]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 16
+[2021.01.11-18.57.47:377][926]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 15
+[2021.01.11-18.57.47:399][927]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 14
+[2021.01.11-18.57.47:420][928]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 13
+[2021.01.11-18.57.47:486][931]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 12
+[2021.01.11-18.57.47:486][931]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 11
+[2021.01.11-18.57.47:508][932]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 10
+[2021.01.11-18.57.47:551][934]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 9
+[2021.01.11-18.57.47:578][935]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 8
+[2021.01.11-18.57.47:578][935]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 7
+[2021.01.11-18.57.47:640][938]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 6
+[2021.01.11-18.57.47:640][938]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 5
+[2021.01.11-18.57.47:644][938]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 4
+[2021.01.11-18.57.47:662][939]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 3
+[2021.01.11-18.57.47:662][939]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 2
+[2021.01.11-18.57.47:666][939]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 1
+[2021.01.11-18.57.56:206][329]LightingResults: Warning: SM_Accent_trim_Plane_5x100_RH Object has wrapping UVs.
+[2021.01.11-18.57.56:865][359]LightingResults: Warning: SM_Accent_trim_Plane_5x100_RH Object has wrapping UVs.
+[2021.01.11-18.58.27:653][300]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_WoodenWall_2M_JJ26)
+[2021.01.11-18.58.28:347][306]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_WoodenWall_2M_JJ26)
+[2021.01.11-18.58.29:586][371]Cmd: SELECT NONE
+[2021.01.11-19.00.02:418][928]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_RH_CorridoorPlane_4)
+[2021.01.11-19.00.04:062][963]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Art_Team/Models/Coridoor/Stretch/M_CorridoorWall_Stretch.M_CorridoorWall_Stretch
+[2021.01.11-19.00.04:273][963]LogMaterial: Display: Missing cached shader map for material M_CorridoorWall_Stretch, compiling. 
+[2021.01.11-19.00.05:071][963]LogMaterial: Display: Missing cached shader map for material M_CorridoorWall_Stretch, compiling. 
+[2021.01.11-19.00.05:080][963]LogMaterial: Display: Missing cached shader map for material M_CorridoorWall_Stretch, compiling. 
+[2021.01.11-19.00.05:098][963]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 9
+[2021.01.11-19.00.05:098][963]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 8
+[2021.01.11-19.00.05:098][963]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 7
+[2021.01.11-19.00.05:098][963]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 6
+[2021.01.11-19.00.05:098][963]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 5
+[2021.01.11-19.00.05:098][963]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 4
+[2021.01.11-19.00.05:098][963]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 3
+[2021.01.11-19.00.05:098][963]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 2
+[2021.01.11-19.00.05:098][963]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 1
+[2021.01.11-19.00.05:101][963]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2021.01.11-19.00.05:108][963]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2021.01.11-19.00.05:112][963]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2021.01.11-19.00.05:116][963]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2021.01.11-19.00.05:121][963]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.01.11-19.00.05:224][963]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 20
+[2021.01.11-19.00.05:224][963]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 19
+[2021.01.11-19.00.05:224][963]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 18
+[2021.01.11-19.00.07:009][105]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 17
+[2021.01.11-19.00.07:391][138]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 16
+[2021.01.11-19.00.07:697][162]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 15
+[2021.01.11-19.00.08:114][199]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 14
+[2021.01.11-19.00.08:595][242]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 13
+[2021.01.11-19.00.08:617][243]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 12
+[2021.01.11-19.00.08:929][269]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 11
+[2021.01.11-19.00.08:956][270]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 10
+[2021.01.11-19.00.09:404][309]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 9
+[2021.01.11-19.00.09:436][311]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 8
+[2021.01.11-19.00.09:734][335]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 7
+[2021.01.11-19.00.09:772][338]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 6
+[2021.01.11-19.00.10:136][370]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 5
+[2021.01.11-19.00.10:267][381]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 4
+[2021.01.11-19.00.10:310][384]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 3
+[2021.01.11-19.00.10:429][394]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 2
+[2021.01.11-19.00.10:503][400]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2021.01.11-19.00.12:316][554]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2021.01.11-19.00.12:321][554]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 4
+[2021.01.11-19.00.12:321][554]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 3
+[2021.01.11-19.00.12:321][554]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 2
+[2021.01.11-19.00.12:321][554]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 1
+[2021.01.11-19.00.12:855][570]MaterialEditorStats: Base pass shader: 138 instructions
+[2021.01.11-19.00.12:855][570]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 216 instructions
+[2021.01.11-19.00.12:855][570]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2021.01.11-19.00.12:855][570]MaterialEditorStats: Texture samplers: 7/16
+[2021.01.11-19.00.12:855][570]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(5)
+[2021.01.11-19.00.12:855][570]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.01.11-19.00.17:943][996]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2021.01.11-19.00.17:943][996]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.11-19.00.39:551][619]Cmd: SELECT NONE
+[2021.01.11-19.00.42:333][723]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_RH_CorridoorPlane_4)
+[2021.01.11-19.02.12:414][651]Job is a success!
+[2021.01.11-19.02.13:479][652]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.076s
+[2021.01.11-19.02.13:479][652]LogVolumetricLightmapImport:      Indirection Texture 32x32x16 = 0.1Mb
+[2021.01.11-19.02.13:479][652]LogVolumetricLightmapImport:      BrickData (all levels) 1.1Mb (trimmed 3.0Mb due to 0.010000 MinBrickError)
+[2021.01.11-19.02.13:479][652]LogVolumetricLightmapImport:      Bricks at depth
+[2021.01.11-19.02.13:479][652]LogVolumetricLightmapImport:          0: 1.6% covering 100.0% of volume
+[2021.01.11-19.02.13:479][652]LogVolumetricLightmapImport:          1: 12.5% covering 12.5% of volume
+[2021.01.11-19.02.13:479][652]LogVolumetricLightmapImport:          2: 85.9% covering 1.3% of volume
+[2021.01.11-19.02.13:479][652]LogVolumetricLightmapImport:      Bricks in each level
+[2021.01.11-19.02.13:479][652]LogVolumetricLightmapImport:          L_PlaytestV3 			 130 bricks 	 51.0% (Persistent Level)
+[2021.01.11-19.02.13:479][652]LogVolumetricLightmapImport:          l_AP_SacraficeRoom2 			 44 bricks 	 17.3%
+[2021.01.11-19.02.13:479][652]LogVolumetricLightmapImport:          L_AP_Library 			 40 bricks 	 15.7%
+[2021.01.11-19.02.13:479][652]LogVolumetricLightmapImport:          l_AP_Lounge_FINAL 			 16 bricks 	 6.3%
+[2021.01.11-19.02.13:479][652]LogVolumetricLightmapImport:          l_AP_FoyerFINAL 			 25 bricks 	 9.8%
+[2021.01.11-19.02.15:391][652]LightingResults: Warning: SpotLight2 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2021.01.11-19.02.21:105][652]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 2048X2048)
+[2021.01.11-19.02.21:105][652]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 2048X2048)
+[2021.01.11-19.02.21:105][652]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 1024X1024)
+[2021.01.11-19.02.21:105][652]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 1024X1024)
+[2021.01.11-19.02.21:105][652]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 1024X1024)
+[2021.01.11-19.02.21:105][652]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 1024X1024)
+[2021.01.11-19.02.21:105][652]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 1024X1024)
+[2021.01.11-19.02.21:105][652]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 1024X1024)
+[2021.01.11-19.02.21:105][652]LogTexture: Display: Building textures: HQ_Lightmap1_5 (AutoDXT, 1024X1024)
+[2021.01.11-19.02.21:105][652]LogTexture: Display: Building textures: LQ_Lightmap_1_5 (DXT1, 1024X1024)
+[2021.01.11-19.02.21:105][652]LogTexture: Display: Building textures: HQ_Lightmap0_6 (AutoDXT, 1024X1024)
+[2021.01.11-19.02.21:105][652]LogTexture: Display: Building textures: LQ_Lightmap_0_6 (DXT1, 1024X1024)
+[2021.01.11-19.02.21:105][652]LogTexture: Display: Building textures: HQ_Lightmap0_7 (AutoDXT, 1024X1024)
+[2021.01.11-19.02.21:105][652]LogTexture: Display: Building textures: LQ_Lightmap_0_7 (DXT1, 1024X1024)
+[2021.01.11-19.02.21:105][652]LogTexture: Display: Building textures: HQ_Lightmap0_8 (AutoDXT, 1024X1024)
+[2021.01.11-19.02.21:105][652]LogTexture: Display: Building textures: LQ_Lightmap_0_8 (DXT1, 1024X1024)
+[2021.01.11-19.02.21:105][652]LogTexture: Display: Building textures: HQ_Lightmap0_9 (AutoDXT, 1024X1024)
+[2021.01.11-19.02.21:105][652]LogTexture: Display: Building textures: LQ_Lightmap_0_9 (DXT1, 1024X1024)
+[2021.01.11-19.02.21:105][652]LogTexture: Display: Building textures: HQ_Lightmap0_10 (AutoDXT, 1024X1024)
+[2021.01.11-19.02.21:105][652]LogTexture: Display: Building textures: LQ_Lightmap_0_10 (DXT1, 1024X1024)
+[2021.01.11-19.02.21:105][652]LogTexture: Display: Building textures: HQ_Lightmap0_11 (AutoDXT, 1024X1024)
+[2021.01.11-19.02.21:105][652]LogTexture: Display: Building textures: LQ_Lightmap_0_11 (DXT1, 1024X1024)
+[2021.01.11-19.02.21:105][652]LogTexture: Display: Building textures: HQ_Lightmap0_12 (AutoDXT, 1024X1024)
+[2021.01.11-19.02.21:105][652]LogTexture: Display: Building textures: HQ_Lightmap0_13 (AutoDXT, 1024X1024)
+[2021.01.11-19.02.21:105][652]LogTexture: Display: Building textures: LQ_Lightmap_0_12 (DXT1, 1024X1024)
+[2021.01.11-19.02.21:106][652]LogTexture: Display: Building textures: LQ_Lightmap_0_13 (DXT1, 1024X1024)
+[2021.01.11-19.02.21:106][652]LogTexture: Display: Building textures: HQ_Lightmap0_14 (AutoDXT, 1024X1024)
+[2021.01.11-19.02.21:106][652]LogTexture: Display: Building textures: LQ_Lightmap_0_14 (DXT1, 1024X1024)
+[2021.01.11-19.02.21:106][652]LogTexture: Display: Building textures: HQ_Lightmap0_15 (AutoDXT, 1024X1024)
+[2021.01.11-19.02.21:106][652]LogTexture: Display: Building textures: LQ_Lightmap_0_15 (DXT1, 1024X1024)
+[2021.01.11-19.02.21:106][652]LogTexture: Display: Building textures: HQ_Lightmap0_16 (AutoDXT, 1024X1024)
+[2021.01.11-19.02.21:106][652]LogTexture: Display: Building textures: LQ_Lightmap_0_16 (DXT1, 1024X1024)
+[2021.01.11-19.02.21:106][652]LogTexture: Display: Building textures: HQ_Lightmap0_17 (AutoDXT, 1024X1024)
+[2021.01.11-19.02.21:106][652]LogTexture: Display: Building textures: LQ_Lightmap_0_17 (DXT1, 1024X1024)
+[2021.01.11-19.02.21:106][652]LogTexture: Display: Building textures: HQ_Lightmap0_18 (AutoDXT, 1024X1024)
+[2021.01.11-19.02.21:106][652]LogTexture: Display: Building textures: LQ_Lightmap_0_18 (DXT1, 1024X1024)
+[2021.01.11-19.02.21:106][652]LogTexture: Display: Building textures: HQ_Lightmap0_19 (AutoDXT, 512X512)
+[2021.01.11-19.02.21:106][652]LogTexture: Display: Building textures: LQ_Lightmap_0_19 (DXT1, 512X512)
+[2021.01.11-19.02.21:106][652]LogTexture: Display: Building textures: HQ_Lightmap0_20 (AutoDXT, 1024X1024)
+[2021.01.11-19.02.21:106][652]LogTexture: Display: Building textures: LQ_Lightmap_0_20 (DXT1, 1024X1024)
+[2021.01.11-19.02.21:106][652]LogTexture: Display: Building textures: HQ_Lightmap0_21 (AutoDXT, 512X512)
+[2021.01.11-19.02.21:106][652]LogTexture: Display: Building textures: LQ_Lightmap_0_21 (DXT1, 512X512)
+[2021.01.11-19.02.21:106][652]LogTexture: Display: Building textures: HQ_Lightmap0_22 (AutoDXT, 1024X1024)
+[2021.01.11-19.02.21:106][652]LogTexture: Display: Building textures: LQ_Lightmap_0_22 (DXT1, 1024X1024)
+[2021.01.11-19.02.21:106][652]LogTexture: Display: Building textures: HQ_Lightmap0_23 (AutoDXT, 1024X1024)
+[2021.01.11-19.02.21:106][652]LogTexture: Display: Building textures: LQ_Lightmap_0_23 (DXT1, 1024X1024)
+[2021.01.11-19.02.21:106][652]LogTexture: Display: Building textures: HQ_Lightmap0_24 (AutoDXT, 1024X1024)
+[2021.01.11-19.02.21:106][652]LogTexture: Display: Building textures: LQ_Lightmap_0_24 (DXT1, 1024X1024)
+[2021.01.11-19.02.21:106][652]LogTexture: Display: Building textures: HQ_Lightmap0_25 (AutoDXT, 1024X1024)
+[2021.01.11-19.02.21:106][652]LogTexture: Display: Building textures: LQ_Lightmap_0_25 (DXT1, 1024X1024)
+[2021.01.11-19.02.21:106][652]LogTexture: Display: Building textures: HQ_Lightmap0_26 (AutoDXT, 1024X1024)
+[2021.01.11-19.02.21:106][652]LogTexture: Display: Building textures: LQ_Lightmap_0_26 (DXT1, 1024X1024)
+[2021.01.11-19.02.21:106][652]LogTexture: Display: Building textures: HQ_Lightmap0_27 (AutoDXT, 1024X1024)
+[2021.01.11-19.02.21:106][652]LogTexture: Display: Building textures: LQ_Lightmap_0_27 (DXT1, 1024X1024)
+[2021.01.11-19.02.21:106][652]LogTexture: Display: Building textures: HQ_Lightmap0_28 (AutoDXT, 1024X1024)
+[2021.01.11-19.02.21:106][652]LogTexture: Display: Building textures: LQ_Lightmap_0_28 (DXT1, 1024X1024)
+[2021.01.11-19.02.21:106][652]LogTexture: Display: Building textures: HQ_Lightmap0_29 (AutoDXT, 1024X1024)
+[2021.01.11-19.02.21:106][652]LogTexture: Display: Building textures: LQ_Lightmap_0_29 (DXT1, 1024X1024)
+[2021.01.11-19.02.21:106][652]LogTexture: Display: Building textures: HQ_Lightmap0_30 (AutoDXT, 1024X1024)
+[2021.01.11-19.02.21:106][652]LogTexture: Display: Building textures: LQ_Lightmap_0_30 (DXT1, 1024X1024)
+[2021.01.11-19.02.21:106][652]LogTexture: Display: Building textures: HQ_Lightmap0_31 (AutoDXT, 1024X1024)
+[2021.01.11-19.02.21:106][652]LogTexture: Display: Building textures: LQ_Lightmap_0_31 (DXT1, 1024X1024)
+[2021.01.11-19.02.21:106][652]LogTexture: Display: Building textures: HQ_Lightmap0_32 (AutoDXT, 1024X1024)
+[2021.01.11-19.02.21:106][652]LogTexture: Display: Building textures: LQ_Lightmap_0_32 (DXT1, 1024X1024)
+[2021.01.11-19.02.21:106][652]LogTexture: Display: Building textures: HQ_Lightmap0_33 (AutoDXT, 1024X1024)
+[2021.01.11-19.02.21:106][652]LogTexture: Display: Building textures: LQ_Lightmap_0_33 (DXT1, 1024X1024)
+[2021.01.11-19.02.21:106][652]LogTexture: Display: Building textures: HQ_Lightmap0_34 (AutoDXT, 128X128)
+[2021.01.11-19.02.21:106][652]LogTexture: Display: Building textures: LQ_Lightmap_0_34 (DXT1, 128X128)
+[2021.01.11-19.02.21:106][652]LogTexture: Display: Building textures: HQ_Lightmap0_35 (AutoDXT, 1024X1024)
+[2021.01.11-19.02.21:106][652]LogTexture: Display: Building textures: LQ_Lightmap_0_35 (DXT1, 1024X1024)
+[2021.01.11-19.02.21:106][652]LogTexture: Display: Building textures: HQ_Lightmap0_36 (AutoDXT, 1024X1024)
+[2021.01.11-19.02.21:106][652]LogTexture: Display: Building textures: LQ_Lightmap_0_36 (DXT1, 1024X1024)
+[2021.01.11-19.02.21:106][652]LogTexture: Display: Building textures: HQ_Lightmap0_37 (AutoDXT, 1024X1024)
+[2021.01.11-19.02.21:106][652]LogTexture: Display: Building textures: LQ_Lightmap_0_37 (DXT1, 1024X1024)
+[2021.01.11-19.02.21:106][652]LogTexture: Display: Building textures: HQ_Lightmap0_38 (AutoDXT, 1024X1024)
+[2021.01.11-19.02.21:106][652]LogTexture: Display: Building textures: LQ_Lightmap_0_38 (DXT1, 1024X1024)
+[2021.01.11-19.02.21:107][652]LogTexture: Display: Building textures: HQ_Lightmap0_39 (AutoDXT, 8X8)
+[2021.01.11-19.02.21:107][652]LogTexture: Display: Building textures: LQ_Lightmap_0_39 (DXT1, 8X8)
+[2021.01.11-19.02.21:107][652]LogTexture: Display: Building textures: HQ_Lightmap0_40 (AutoDXT, 8X8)
+[2021.01.11-19.02.21:107][652]LogTexture: Display: Building textures: LQ_Lightmap_0_40 (DXT1, 8X8)
+[2021.01.11-19.02.21:306][652]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (BGRA8, 512X32)
+[2021.01.11-19.02.21:306][652]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (BGRA8, 1024X64)
+[2021.01.11-19.02.21:306][652]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 1024X128)
+[2021.01.11-19.02.21:518][652]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 1024X1024)
+[2021.01.11-19.02.21:518][652]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (BGRA8, 1024X1024)
+[2021.01.11-19.02.21:518][652]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (BGRA8, 1024X1024)
+[2021.01.11-19.02.21:518][652]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (BGRA8, 1024X1024)
+[2021.01.11-19.02.21:518][652]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (BGRA8, 1024X1024)
+[2021.01.11-19.02.21:518][652]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (BGRA8, 1024X1024)
+[2021.01.11-19.02.21:518][652]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (BGRA8, 1024X1024)
+[2021.01.11-19.02.21:518][652]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (BGRA8, 1024X1024)
+[2021.01.11-19.02.21:518][652]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (BGRA8, 1024X1024)
+[2021.01.11-19.02.21:623][652]Lightmass on DESKTOP-JCBV63G: 11:44 min total, 485 ms importing, 418 ms setup, 56.0 sec photons, 10:47 min processing, 0 ms extra exporting [3469/3469 mappings]. Threads: 2:41:52 hours total, 2:00:30 hours processing.
+[2021.01.11-19.02.21:631][652]LogStaticLightingSystem: L_PlaytestV3_BuiltData storing lightmap data for 36 meshes in 11 LightmapResourceClusters (3.3 Meshes per cluster).
+[2021.01.11-19.02.21:632][652]LogStaticLightingSystem: l_AP_Lounge_FINAL_BuiltData storing lightmap data for 514 meshes in 9 LightmapResourceClusters (57.1 Meshes per cluster).
+[2021.01.11-19.02.21:632][652]LogStaticLightingSystem: l_AP_FoyerFINAL_BuiltData storing lightmap data for 583 meshes in 10 LightmapResourceClusters (58.3 Meshes per cluster).
+[2021.01.11-19.02.21:633][652]LogStaticLightingSystem: l_AP_SacraficeRoom2_BuiltData storing lightmap data for 1811 meshes in 10 LightmapResourceClusters (181.1 Meshes per cluster).
+[2021.01.11-19.02.21:633][652]LogStaticLightingSystem: L_AP_Library_BuiltData storing lightmap data for 519 meshes in 23 LightmapResourceClusters (22.6 Meshes per cluster).
+[2021.01.11-19.02.21:653][652]LogMaterial: Display: Material /Game/Art_Team/Models/Coridoor/Stretch/M_CorridoorWall_Stretch.M_CorridoorWall_Stretch needed to have new flag set bUsedWithStaticLighting !
+[2021.01.11-19.02.21:707][652]LogMaterial: Display: Missing cached shader map for material M_CorridoorWall_Stretch, compiling. 
+[2021.01.11-19.02.21:749][652]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 24
+[2021.01.11-19.02.21:749][652]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 21
+[2021.01.11-19.02.21:749][652]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 18
+[2021.01.11-19.02.21:749][652]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 15
+[2021.01.11-19.02.21:749][652]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 12
+[2021.01.11-19.02.21:749][652]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 9
+[2021.01.11-19.02.21:749][652]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 6
+[2021.01.11-19.02.21:749][652]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 3
+[2021.01.11-19.02.25:540][652]LogUObjectHash: Compacting FUObjectHashTables data took   3.18ms
+[2021.01.11-19.02.26:238][652]LogStaticLightingSystem: Illumination: 12:00 min (5.69 sec encoding lightmaps, 410 ms encoding shadowmaps)
+[2021.01.11-19.02.26:654][652]LogStaticLightingSystem: Lightmap texture memory:  77.0 MB (76.5 MB streaming, 0.5 MB non-streaming), 80 textures
+[2021.01.11-19.02.26:654][652]LogStaticLightingSystem: Shadowmap texture memory: 44.6 MB (44.6 MB streaming, 0.0 MB non-streaming), 12 textures
+[2021.01.11-19.02.28:996][652]DumpUnbuiltLightIteractions
+[2021.01.11-19.02.28:996][652]Lights with unbuilt interactions: 0
+[2021.01.11-19.02.28:996][652]
+[2021.01.11-19.02.28:996][652]Primitives with unbuilt interactions: 0
+[2021.01.11-19.02.38:511][653]Cmd: MAP CHECK NOTIFYRESULTS
+[2021.01.11-19.02.38:511][653]MapCheck: New page: L_PlaytestV3 - 11 Jan 2021, 19:02:38
+[2021.01.11-19.02.38:516][653]MapCheck: Error: SkyAtmosphere_5 A SkyAtmosphere and a legacy AtmosphericFog components are both active, we recommend to have only one enabled per world. 
+[2021.01.11-19.02.38:521][653]MapCheck: Warning: SM_TEST_5 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2021.01.11-19.02.38:522][653]MapCheck: Map check complete: 1 Error(s), 1 Warning(s), took 10.932ms to complete.
+[2021.01.11-19.02.40:001][761]LogSlate: Window 'Message Log' being destroyed
+[2021.01.11-19.02.40:004][761]LogSlate: Window 'Message Log' being destroyed
+[2021.01.11-19.04.25:162][146]LogRenderer: Reallocating scene render targets to support 1920x1040 Format 10 NumSamples 1 (Frame:34987).
+[2021.01.11-19.04.33:457][ 70]LogClient: High resolution screenshot saved as E:/Teesside University/Year 3 -  Teesside/Beta Arcade/Unreal Files/8Ball-Studios-Repo/8Ball_Project/8Ball_Project/Saved/Screenshots/Windows/HighresScreenshot00010.png
+[2021.01.11-19.04.34:550][173]LogSlate: Window 'High Resolution Screenshot' being destroyed
+[2021.01.11-19.04.34:828][204]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sm_StoneWall_4M143)
+[2021.01.11-19.04.58:803][404]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sm_StoneBalconyEnd_TH3)
+[2021.01.11-19.04.58:976][407]Cmd: SELECT NONE
+[2021.01.11-19.05.29:533][377]Cmd: SELECT NONE
+[2021.01.11-19.05.32:756][719]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2021.01.11-19.05.34:243][719]LogSlate: Window 'Save Content' being destroyed
+[2021.01.11-19.05.34:404][719]LogSavePackage: Moving 'E:/Teesside University/Year 3 -  Teesside/Beta Arcade/Unreal Files/8Ball-Studios-Repo/8Ball_Project/8Ball_Project/Saved/M_CorridoorWall_StretchB21948A3449186964B93E483207A5DA8.tmp' to 'E:/Teesside University/Year 3 -  Teesside/Beta Arcade/Unreal Files/8Ball-Studios-Repo/8Ball_Project/8Ball_Project/Content/Art_Team/Models/Coridoor/Stretch/M_CorridoorWall_Stretch.uasset'
+[2021.01.11-19.05.34:470][719]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2021.01.11-19.05.35:437][719]LogSavePackage: Moving 'E:/Teesside University/Year 3 -  Teesside/Beta Arcade/Unreal Files/8Ball-Studios-Repo/8Ball_Project/8Ball_Project/Saved/l_AP_FoyerFINAL31B3B45846E33B1B91A2ECB0679890FC.tmp' to 'E:/Teesside University/Year 3 -  Teesside/Beta Arcade/Unreal Files/8Ball-Studios-Repo/8Ball_Project/8Ball_Project/Content/Maps/l_AP_FoyerFINAL.umap'
+[2021.01.11-19.05.35:442][719]LogFileHelpers: Saving map 'l_AP_FoyerFINAL' took 1.023
+[2021.01.11-19.05.38:814][719]LogSavePackage: Moving 'E:/Teesside University/Year 3 -  Teesside/Beta Arcade/Unreal Files/8Ball-Studios-Repo/8Ball_Project/8Ball_Project/Saved/l_AP_FoyerFINAL_BuiltDataA7D16A6948375FC0AA3EE4BD15397E40.tmp' to 'E:/Teesside University/Year 3 -  Teesside/Beta Arcade/Unreal Files/8Ball-Studios-Repo/8Ball_Project/8Ball_Project/Content/Maps/l_AP_FoyerFINAL_BuiltData.uasset'
+[2021.01.11-19.05.38:837][719]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2021.01.11-19.05.39:197][719]LogSavePackage: Moving 'E:/Teesside University/Year 3 -  Teesside/Beta Arcade/Unreal Files/8Ball-Studios-Repo/8Ball_Project/8Ball_Project/Saved/L_AP_Library8CDB5A384B2F6ACE33DCB8A6741F9281.tmp' to 'E:/Teesside University/Year 3 -  Teesside/Beta Arcade/Unreal Files/8Ball-Studios-Repo/8Ball_Project/8Ball_Project/Content/Maps/L_AP_Library.umap'
+[2021.01.11-19.05.39:202][719]LogFileHelpers: Saving map 'L_AP_Library' took 0.381
+[2021.01.11-19.05.44:382][719]LogSavePackage: Moving 'E:/Teesside University/Year 3 -  Teesside/Beta Arcade/Unreal Files/8Ball-Studios-Repo/8Ball_Project/8Ball_Project/Saved/L_AP_Library_BuiltData138AC18C45438B3481336B8DA46D3341.tmp' to 'E:/Teesside University/Year 3 -  Teesside/Beta Arcade/Unreal Files/8Ball-Studios-Repo/8Ball_Project/8Ball_Project/Content/Maps/L_AP_Library_BuiltData.uasset'
+[2021.01.11-19.05.47:242][719]LogSavePackage: Moving 'E:/Teesside University/Year 3 -  Teesside/Beta Arcade/Unreal Files/8Ball-Studios-Repo/8Ball_Project/8Ball_Project/Saved/L_AP_Library_BuiltData0DD9FD9245386A2DCCBBBAA487D37677.tmp' to 'E:/Teesside University/Year 3 -  Teesside/Beta Arcade/Unreal Files/8Ball-Studios-Repo/8Ball_Project/8Ball_Project/Content/Maps/L_AP_Library_BuiltData.uasset'
+[2021.01.11-19.05.47:267][719]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2021.01.11-19.05.48:275][719]LogSavePackage: Moving 'E:/Teesside University/Year 3 -  Teesside/Beta Arcade/Unreal Files/8Ball-Studios-Repo/8Ball_Project/8Ball_Project/Saved/l_AP_Lounge_FINAL3B82D5E0437C47D44BC0F7B28E4045F8.tmp' to 'E:/Teesside University/Year 3 -  Teesside/Beta Arcade/Unreal Files/8Ball-Studios-Repo/8Ball_Project/8Ball_Project/Content/Maps/l_AP_Lounge_FINAL.umap'
+[2021.01.11-19.05.48:280][719]LogFileHelpers: Saving map 'l_AP_Lounge_FINAL' took 1.031
+[2021.01.11-19.05.50:277][719]LogSavePackage: Moving 'E:/Teesside University/Year 3 -  Teesside/Beta Arcade/Unreal Files/8Ball-Studios-Repo/8Ball_Project/8Ball_Project/Saved/l_AP_Lounge_FINAL_BuiltDataBBFE4AD843181A459311BDB4A249EB98.tmp' to 'E:/Teesside University/Year 3 -  Teesside/Beta Arcade/Unreal Files/8Ball-Studios-Repo/8Ball_Project/8Ball_Project/Content/Maps/l_AP_Lounge_FINAL_BuiltData.uasset'
+[2021.01.11-19.05.50:300][719]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2021.01.11-19.05.52:021][719]LogSavePackage: Moving 'E:/Teesside University/Year 3 -  Teesside/Beta Arcade/Unreal Files/8Ball-Studios-Repo/8Ball_Project/8Ball_Project/Saved/l_AP_SacraficeRoom2D86EF1B84912F2D9943170BE291C1C34.tmp' to 'E:/Teesside University/Year 3 -  Teesside/Beta Arcade/Unreal Files/8Ball-Studios-Repo/8Ball_Project/8Ball_Project/Content/Maps/l_AP_SacraficeRoom2.umap'
+[2021.01.11-19.05.52:026][719]LogFileHelpers: Saving map 'l_AP_SacraficeRoom2' took 1.743
+[2021.01.11-19.05.55:586][719]LogSavePackage: Moving 'E:/Teesside University/Year 3 -  Teesside/Beta Arcade/Unreal Files/8Ball-Studios-Repo/8Ball_Project/8Ball_Project/Saved/l_AP_SacraficeRoom2_BuiltData0CEBBE094DB943B40ADF97A03A52B5E0.tmp' to 'E:/Teesside University/Year 3 -  Teesside/Beta Arcade/Unreal Files/8Ball-Studios-Repo/8Ball_Project/8Ball_Project/Content/Maps/l_AP_SacraficeRoom2_BuiltData.uasset'
+[2021.01.11-19.05.57:639][719]LogSavePackage: Moving 'E:/Teesside University/Year 3 -  Teesside/Beta Arcade/Unreal Files/8Ball-Studios-Repo/8Ball_Project/8Ball_Project/Saved/l_AP_SacraficeRoom2_BuiltData11E943E24C5F68C562D626BE09F7CDE1.tmp' to 'E:/Teesside University/Year 3 -  Teesside/Beta Arcade/Unreal Files/8Ball-Studios-Repo/8Ball_Project/8Ball_Project/Content/Maps/l_AP_SacraficeRoom2_BuiltData.uasset'
+[2021.01.11-19.05.57:663][719]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2021.01.11-19.05.58:241][719]LogSavePackage: Moving 'E:/Teesside University/Year 3 -  Teesside/Beta Arcade/Unreal Files/8Ball-Studios-Repo/8Ball_Project/8Ball_Project/Saved/L_PlaytestV391758D224DD9B15357B13883F1948FBD.tmp' to 'E:/Teesside University/Year 3 -  Teesside/Beta Arcade/Unreal Files/8Ball-Studios-Repo/8Ball_Project/8Ball_Project/Content/Maps/L_PlaytestV3.umap'
+[2021.01.11-19.05.58:304][719]LogFileHelpers: Saving map 'L_PlaytestV3' took 0.660
+[2021.01.11-19.05.59:526][719]LogSavePackage: Moving 'E:/Teesside University/Year 3 -  Teesside/Beta Arcade/Unreal Files/8Ball-Studios-Repo/8Ball_Project/8Ball_Project/Saved/L_PlaytestV3_BuiltData88F3797F4C9E9FF5FC487DA036E93389.tmp' to 'E:/Teesside University/Year 3 -  Teesside/Beta Arcade/Unreal Files/8Ball-Studios-Repo/8Ball_Project/8Ball_Project/Content/Maps/L_PlaytestV3_BuiltData.uasset'
+[2021.01.11-19.05.59:590][719]AssetCheck: New page: Asset Save: multiple assets
+[2021.01.11-19.05.59:590][719]LogContentValidation: Display: Validating Material /Game/Art_Team/Models/Coridoor/Stretch/M_CorridoorWall_Stretch.M_CorridoorWall_Stretch
+[2021.01.11-19.05.59:590][719]LogContentValidation: Display: Validating World /Game/Maps/l_AP_FoyerFINAL.l_AP_FoyerFINAL
+[2021.01.11-19.05.59:590][719]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/l_AP_FoyerFINAL_BuiltData.l_AP_FoyerFINAL_BuiltData
+[2021.01.11-19.05.59:590][719]LogContentValidation: Display: Validating World /Game/Maps/L_AP_Library.L_AP_Library
+[2021.01.11-19.05.59:590][719]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/L_AP_Library_BuiltData.L_AP_Library_BuiltData
+[2021.01.11-19.05.59:590][719]LogContentValidation: Display: Validating World /Game/Maps/l_AP_Lounge_FINAL.l_AP_Lounge_FINAL
+[2021.01.11-19.05.59:590][719]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/l_AP_Lounge_FINAL_BuiltData.l_AP_Lounge_FINAL_BuiltData
+[2021.01.11-19.05.59:590][719]LogContentValidation: Display: Validating World /Game/Maps/l_AP_SacraficeRoom2.l_AP_SacraficeRoom2
+[2021.01.11-19.05.59:590][719]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/l_AP_SacraficeRoom2_BuiltData.l_AP_SacraficeRoom2_BuiltData
+[2021.01.11-19.05.59:590][719]LogContentValidation: Display: Validating World /Game/Maps/L_PlaytestV3.L_PlaytestV3
+[2021.01.11-19.05.59:590][719]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/L_PlaytestV3_BuiltData.L_PlaytestV3_BuiltData
+[2021.01.11-19.06.13:970][849]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2021.01.11-19.06.14:182][849]LogSlate: Window 'BA_Project - Unreal Editor' being destroyed
+[2021.01.11-19.06.14:202][849]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2021.01.11-19.06.14:340][849]LogSlate: Window 'High Resolution Screenshot' being destroyed
+[2021.01.11-19.06.14:448][850]Cmd: QUIT_EDITOR
+[2021.01.11-19.06.14:448][850]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2021.01.11-19.06.14:519][850]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2021.01.11-19.06.15:043][850]LogExit: Preparing to exit.
+[2021.01.11-19.06.15:833][850]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2021.01.11-19.06.15:835][850]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2021.01.11-19.06.15:837][850]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2021.01.11-19.06.15:838][850]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2021.01.11-19.06.15:839][850]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2021.01.11-19.06.15:840][850]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2021.01.11-19.06.15:841][850]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2021.01.11-19.06.16:094][850]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2021.01.11-19.06.16:431][850]LogExit: Editor shut down
+[2021.01.11-19.06.16:431][850]LogExit: Transaction tracking system shut down
+[2021.01.11-19.06.18:402][850]LogAISub: UAISubsystem::~UAISubsystem AISubsystem (0000021A3BE3E980), frame # 46850
+[2021.01.11-19.06.18:402][850]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000021A3BCC3B00), frame # 46850
+[2021.01.11-19.06.18:429][850]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000021A3BE5A200), frame # 46850
+[2021.01.11-19.06.20:257][850]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000021A9AA88C00), frame # 46850
+[2021.01.11-19.06.20:257][850]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000021A97AD5A80), frame # 46850
+[2021.01.11-19.06.20:363][850]LogExit: Object subsystem successfully closed.
+[2021.01.11-19.06.20:508][850]LogShaderCompilers: Display: Shaders left to compile 0
+[2021.01.11-19.06.23:236][850]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (788)
+[2021.01.11-19.06.23:262][850]LogModuleManager: Shutting down and abandoning module BlueprintGraph (786)
+[2021.01.11-19.06.23:262][850]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (784)
+[2021.01.11-19.06.23:262][850]LogModuleManager: Shutting down and abandoning module SceneOutliner (782)
+[2021.01.11-19.06.23:262][850]LogModuleManager: Shutting down and abandoning module AddContentDialog (780)
+[2021.01.11-19.06.23:281][850]LogModuleManager: Shutting down and abandoning module WidgetCarousel (779)
+[2021.01.11-19.06.23:281][850]LogModuleManager: Shutting down and abandoning module EditorWidgets (776)
+[2021.01.11-19.06.23:281][850]LogModuleManager: Shutting down and abandoning module CollectionManager (774)
+[2021.01.11-19.06.23:298][850]LogModuleManager: Shutting down and abandoning module StatsViewer (772)
+[2021.01.11-19.06.23:310][850]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (770)
+[2021.01.11-19.06.23:310][850]LogModuleManager: Shutting down and abandoning module FoliageEdit (768)
+[2021.01.11-19.06.23:329][850]LogModuleManager: Shutting down and abandoning module LandscapeEditor (766)
+[2021.01.11-19.06.23:383][850]LogModuleManager: Shutting down and abandoning module MeshPaintMode (764)
+[2021.01.11-19.06.23:397][850]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (762)
+[2021.01.11-19.06.23:397][850]LogModuleManager: Shutting down and abandoning module ActorPickerMode (760)
+[2021.01.11-19.06.23:397][850]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (758)
+[2021.01.11-19.06.23:429][850]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (756)
+[2021.01.11-19.06.23:463][850]LogModuleManager: Shutting down and abandoning module AutomationWorker (754)
+[2021.01.11-19.06.23:484][850]LogModuleManager: Shutting down and abandoning module OculusMR (752)
+[2021.01.11-19.06.23:505][850]LogModuleManager: Shutting down and abandoning module GooglePADEditor (750)
+[2021.01.11-19.06.23:505][850]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (748)
+[2021.01.11-19.06.23:505][850]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (746)
+[2021.01.11-19.06.23:554][850]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (744)
+[2021.01.11-19.06.23:559][850]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (742)
+[2021.01.11-19.06.23:586][850]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (740)
+[2021.01.11-19.06.23:608][850]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (738)
+[2021.01.11-19.06.23:608][850]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (736)
+[2021.01.11-19.06.23:608][850]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (734)
+[2021.01.11-19.06.23:608][850]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (732)
+[2021.01.11-19.06.23:608][850]LogModuleManager: Shutting down and abandoning module WebMMedia (730)
+[2021.01.11-19.06.23:628][850]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (728)
+[2021.01.11-19.06.23:655][850]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (726)
+[2021.01.11-19.06.23:678][850]LogModuleManager: Shutting down and abandoning module SequenceRecorder (725)
+[2021.01.11-19.06.23:681][850]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (722)
+[2021.01.11-19.06.23:681][850]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (720)
+[2021.01.11-19.06.23:681][850]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (718)
+[2021.01.11-19.06.23:681][850]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (716)
+[2021.01.11-19.06.23:681][850]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (714)
+[2021.01.11-19.06.23:681][850]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (712)
+[2021.01.11-19.06.23:681][850]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (710)
+[2021.01.11-19.06.23:681][850]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (708)
+[2021.01.11-19.06.23:681][850]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (706)
+[2021.01.11-19.06.23:681][850]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (704)
+[2021.01.11-19.06.23:681][850]LogModuleManager: Shutting down and abandoning module PlanarCut (702)
+[2021.01.11-19.06.23:710][850]LogModuleManager: Shutting down and abandoning module CharacterAI (700)
+[2021.01.11-19.06.23:710][850]LogModuleManager: Shutting down and abandoning module TextureAlignMode (698)
+[2021.01.11-19.06.23:710][850]LogModuleManager: Shutting down and abandoning module BspMode (696)
+[2021.01.11-19.06.23:717][850]LogModuleManager: Shutting down and abandoning module PlacementMode (695)
+[2021.01.11-19.06.23:718][850]LogModuleManager: Shutting down and abandoning module GeometryMode (692)
+[2021.01.11-19.06.23:718][850]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (690)
+[2021.01.11-19.06.23:732][850]LogModuleManager: Shutting down and abandoning module SmartSnapping (688)
+[2021.01.11-19.06.23:732][850]LogModuleManager: Shutting down and abandoning module SessionServices (686)
+[2021.01.11-19.06.23:732][850]LogModuleManager: Shutting down and abandoning module MeshPaint (684)
+[2021.01.11-19.06.23:760][850]LogModuleManager: Shutting down and abandoning module ViewportSnapping (682)
+[2021.01.11-19.06.23:760][850]LogModuleManager: Shutting down and abandoning module ViewportInteraction (680)
+[2021.01.11-19.06.23:760][850]LogModuleManager: Shutting down and abandoning module ClothPainter (678)
+[2021.01.11-19.06.23:800][850]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (677)
+[2021.01.11-19.06.23:819][850]LogModuleManager: Shutting down and abandoning module LogVisualizer (674)
+[2021.01.11-19.06.23:851][850]LogModuleManager: Shutting down and abandoning module IntroTutorials (672)
+[2021.01.11-19.06.23:867][850]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (671)
+[2021.01.11-19.06.23:889][850]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (668)
+[2021.01.11-19.06.23:889][850]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (666)
+[2021.01.11-19.06.23:911][850]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (664)
+[2021.01.11-19.06.23:911][850]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (663)
+[2021.01.11-19.06.24:646][850]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (660)
+[2021.01.11-19.06.24:646][850]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (658)
+[2021.01.11-19.06.24:646][850]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (656)
+[2021.01.11-19.06.24:646][850]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (654)
+[2021.01.11-19.06.24:646][850]LogModuleManager: Shutting down and abandoning module TraceInsights (652)
+[2021.01.11-19.06.24:717][850]LogModuleManager: Shutting down and abandoning module TraceServices (651)
+[2021.01.11-19.06.24:750][850]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (648)
+[2021.01.11-19.06.24:764][850]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (646)
+[2021.01.11-19.06.24:764][850]LogModuleManager: Shutting down and abandoning module InputBindingEditor (644)
+[2021.01.11-19.06.24:774][850]LogModuleManager: Shutting down and abandoning module MergeActors (642)
+[2021.01.11-19.06.24:795][850]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (640)
+[2021.01.11-19.06.24:819][850]LogModuleManager: Shutting down and abandoning module LocalizationService (639)
+[2021.01.11-19.06.24:840][850]LogModuleManager: Shutting down and abandoning module HardwareTargeting (636)
+[2021.01.11-19.06.24:841][850]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (634)
+[2021.01.11-19.06.24:852][850]LogModuleManager: Shutting down and abandoning module UndoHistory (632)
+[2021.01.11-19.06.24:873][850]LogModuleManager: Shutting down and abandoning module XmlParser (630)
+[2021.01.11-19.06.24:885][850]LogModuleManager: Shutting down and abandoning module Blutility (628)
+[2021.01.11-19.06.24:885][850]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (626)
+[2021.01.11-19.06.24:885][850]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (625)
+[2021.01.11-19.06.24:885][850]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (622)
+[2021.01.11-19.06.24:885][850]LogModuleManager: Shutting down and abandoning module SettingsEditor (620)
+[2021.01.11-19.06.24:910][850]LogModuleManager: Shutting down and abandoning module ProjectLauncher (618)
+[2021.01.11-19.06.24:929][850]LogModuleManager: Shutting down and abandoning module SessionFrontend (616)
+[2021.01.11-19.06.24:942][850]LogModuleManager: Shutting down and abandoning module ProfilerClient (614)
+[2021.01.11-19.06.24:963][850]LogModuleManager: Shutting down and abandoning module DeviceManager (612)
+[2021.01.11-19.06.24:984][850]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (611)
+[2021.01.11-19.06.25:017][850]LogModuleManager: Shutting down and abandoning module AutomationController (608)
+[2021.01.11-19.06.25:039][850]LogModuleManager: Shutting down and abandoning module AutomationWindow (606)
+[2021.01.11-19.06.25:060][850]LogModuleManager: Shutting down and abandoning module Layers (604)
+[2021.01.11-19.06.25:093][850]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (602)
+[2021.01.11-19.06.25:093][850]LogModuleManager: Shutting down and abandoning module DetailCustomizations (600)
+[2021.01.11-19.06.25:093][850]LogModuleManager: Shutting down and abandoning module PackagesDialog (598)
+[2021.01.11-19.06.25:093][850]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (596)
+[2021.01.11-19.06.25:123][850]LogModuleManager: Shutting down and abandoning module Persona (594)
+[2021.01.11-19.06.25:158][850]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (593)
+[2021.01.11-19.06.25:158][850]LogModuleManager: Shutting down and abandoning module AnimGraph (591)
+[2021.01.11-19.06.25:175][850]LogModuleManager: Shutting down and abandoning module Kismet (588)
+[2021.01.11-19.06.25:246][850]LogModuleManager: Shutting down and abandoning module KismetWidgets (587)
+[2021.01.11-19.06.25:267][850]LogModuleManager: Shutting down and abandoning module GraphEditor (584)
+[2021.01.11-19.06.25:267][850]LogModuleManager: Shutting down and abandoning module StructViewer (582)
+[2021.01.11-19.06.25:267][850]LogModuleManager: Shutting down and abandoning module ClassViewer (580)
+[2021.01.11-19.06.25:267][850]LogModuleManager: Shutting down and abandoning module Toolbox (578)
+[2021.01.11-19.06.25:267][850]LogModuleManager: Shutting down and abandoning module ModuleUI (576)
+[2021.01.11-19.06.25:278][850]LogModuleManager: Shutting down and abandoning module OutputLog (574)
+[2021.01.11-19.06.25:307][850]LogModuleManager: Shutting down and abandoning module GammaUI (572)
+[2021.01.11-19.06.25:325][850]LogModuleManager: Shutting down and abandoning module Documentation (570)
+[2021.01.11-19.06.25:325][850]LogModuleManager: Shutting down and abandoning module LiveCoding (568)
+[2021.01.11-19.06.25:369][850]LogModuleManager: Shutting down and abandoning module LevelSequence (566)
+[2021.01.11-19.06.25:369][850]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (564)
+[2021.01.11-19.06.25:369][850]LogModuleManager: Shutting down and abandoning module MovieScene (562)
+[2021.01.11-19.06.25:369][850]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (560)
+[2021.01.11-19.06.25:398][850]LogModuleManager: Shutting down and abandoning module LauncherPlatform (558)
+[2021.01.11-19.06.25:398][850]LogModuleManager: Shutting down and abandoning module AnalyticsET (556)
+[2021.01.11-19.06.25:398][850]LogModuleManager: Shutting down and abandoning module PortalServices (554)
+[2021.01.11-19.06.25:398][850]LogModuleManager: Shutting down and abandoning module PortalRpc (552)
+[2021.01.11-19.06.25:398][850]LogModuleManager: Shutting down and abandoning module MessagingRpc (550)
+[2021.01.11-19.06.25:398][850]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (548)
+[2021.01.11-19.06.25:398][850]LogModuleManager: Shutting down and abandoning module AudioMixerCore (547)
+[2021.01.11-19.06.25:398][850]LogModuleManager: Shutting down and abandoning module AIModule (544)
+[2021.01.11-19.06.25:423][850]LogModuleManager: Shutting down and abandoning module GameplayDebugger (543)
+[2021.01.11-19.06.25:431][850]LogModuleManager: Shutting down and abandoning module AITestSuite (541)
+[2021.01.11-19.06.25:431][850]LogModuleManager: Shutting down and abandoning module NavigationSystem (539)
+[2021.01.11-19.06.25:431][850]LogModuleManager: Shutting down and abandoning module ProfilerService (536)
+[2021.01.11-19.06.25:496][850]LogModuleManager: Shutting down and abandoning module TaskGraph (534)
+[2021.01.11-19.06.25:516][850]LogModuleManager: Shutting down and abandoning module ScreenshotTools (532)
+[2021.01.11-19.06.25:516][850]LogModuleManager: Shutting down and abandoning module SynthesisEditor (530)
+[2021.01.11-19.06.25:516][850]LogModuleManager: Shutting down and abandoning module Synthesis (528)
+[2021.01.11-19.06.25:541][850]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (526)
+[2021.01.11-19.06.25:541][850]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (524)
+[2021.01.11-19.06.25:541][850]LogModuleManager: Shutting down and abandoning module OculusEditor (522)
+[2021.01.11-19.06.25:558][850]LogModuleManager: Shutting down and abandoning module OculusInput (520)
+[2021.01.11-19.06.25:558][850]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (518)
+[2021.01.11-19.06.25:558][850]LogModuleManager: Shutting down and abandoning module GooglePAD (516)
+[2021.01.11-19.06.25:558][850]LogModuleManager: Shutting down and abandoning module EditableMesh (514)
+[2021.01.11-19.06.25:574][850]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (512)
+[2021.01.11-19.06.25:574][850]LogModuleManager: Shutting down and abandoning module CableComponent (510)
+[2021.01.11-19.06.25:590][850]LogModuleManager: Shutting down and abandoning module AudioCapture (508)
+[2021.01.11-19.06.25:591][850]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (507)
+[2021.01.11-19.06.25:607][850]LogModuleManager: Shutting down and abandoning module AssetTags (504)
+[2021.01.11-19.06.25:607][850]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (502)
+[2021.01.11-19.06.25:607][850]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (500)
+[2021.01.11-19.06.25:608][850]LogModuleManager: Shutting down and abandoning module AppleImageUtils (498)
+[2021.01.11-19.06.25:608][850]LogModuleManager: Shutting down and abandoning module AndroidPermission (496)
+[2021.01.11-19.06.25:608][850]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (494)
+[2021.01.11-19.06.25:629][850]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (492)
+[2021.01.11-19.06.25:633][850]LogModuleManager: Shutting down and abandoning module TemplateSequence (490)
+[2021.01.11-19.06.25:633][850]LogModuleManager: Shutting down and abandoning module MovieRenderPipelineEditor (488)
+[2021.01.11-19.06.25:649][850]LogModuleManager: Shutting down and abandoning module MovieRenderPipelineRenderPasses (486)
+[2021.01.11-19.06.25:683][850]LogModuleManager: Shutting down and abandoning module MovieRenderPipelineSettings (484)
+[2021.01.11-19.06.25:683][850]LogModuleManager: Shutting down and abandoning module MovieRenderPipelineCore (482)
+[2021.01.11-19.06.25:683][850]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (481)
+[2021.01.11-19.06.25:686][850]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (478)
+[2021.01.11-19.06.25:701][850]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (476)
+[2021.01.11-19.06.25:701][850]LogModuleManager: Shutting down and abandoning module MediaCompositing (474)
+[2021.01.11-19.06.25:701][850]LogModuleManager: Shutting down and abandoning module ImgMedia (472)
+[2021.01.11-19.06.25:701][850]LogModuleManager: Shutting down and abandoning module MagicLeapSharedWorld (470)
+[2021.01.11-19.06.25:701][850]LogModuleManager: Shutting down and abandoning module MagicLeapLightEstimation (468)
+[2021.01.11-19.06.25:701][850]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (466)
+[2021.01.11-19.06.25:701][850]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (464)
+[2021.01.11-19.06.25:701][850]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (462)
+[2021.01.11-19.06.25:714][850]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (460)
+[2021.01.11-19.06.25:765][850]LogModuleManager: Shutting down and abandoning module MeshSolverUtilities (458)
+[2021.01.11-19.06.25:795][850]LogModuleManager: Shutting down and abandoning module MeshConversion (456)
+[2021.01.11-19.06.25:803][850]LogModuleManager: Shutting down and abandoning module DynamicMesh (454)
+[2021.01.11-19.06.25:826][850]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (452)
+[2021.01.11-19.06.25:839][850]LogModuleManager: Shutting down and abandoning module GeometricObjects (450)
+[2021.01.11-19.06.25:856][850]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (448)
+[2021.01.11-19.06.25:856][850]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (447)
+[2021.01.11-19.06.25:856][850]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (444)
+[2021.01.11-19.06.25:856][850]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (442)
+[2021.01.11-19.06.25:856][850]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (440)
+[2021.01.11-19.06.25:856][850]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (438)
+[2021.01.11-19.06.25:856][850]LogModuleManager: Shutting down and abandoning module ChaosNiagara (436)
+[2021.01.11-19.06.25:856][850]LogModuleManager: Shutting down and abandoning module FractureEditor (434)
+[2021.01.11-19.06.25:878][850]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (432)
+[2021.01.11-19.06.25:878][850]LogModuleManager: Shutting down and abandoning module ChaosCloth (430)
+[2021.01.11-19.06.25:886][850]LogModuleManager: Shutting down and abandoning module BackChannel (428)
+[2021.01.11-19.06.25:903][850]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (426)
+[2021.01.11-19.06.25:903][850]LogModuleManager: Shutting down and abandoning module AutomationUtils (424)
+[2021.01.11-19.06.25:903][850]LogModuleManager: Shutting down and abandoning module AlembicImporter (422)
+[2021.01.11-19.06.25:903][850]LogModuleManager: Shutting down and abandoning module AlembicLibrary (421)
+[2021.01.11-19.06.25:903][850]LogModuleManager: Shutting down and abandoning module GeometryCache (420)
+[2021.01.11-19.06.25:903][850]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (419)
+[2021.01.11-19.06.25:903][850]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (414)
+[2021.01.11-19.06.25:910][850]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (412)
+[2021.01.11-19.06.25:937][850]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (410)
+[2021.01.11-19.06.25:937][850]LogModuleManager: Shutting down and abandoning module PluginBrowser (408)
+[2021.01.11-19.06.25:970][850]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (406)
+[2021.01.11-19.06.25:990][850]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (404)
+[2021.01.11-19.06.26:007][850]LogModuleManager: Shutting down and abandoning module EditorScriptingUtilities (402)
+[2021.01.11-19.06.26:013][850]LogModuleManager: Shutting down and abandoning module CurveEditorTools (400)
+[2021.01.11-19.06.26:054][850]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (398)
+[2021.01.11-19.06.26:054][850]LogModuleManager: Shutting down and abandoning module CryptoKeys (396)
+[2021.01.11-19.06.26:054][850]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (394)
+[2021.01.11-19.06.26:071][850]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (392)
+[2021.01.11-19.06.26:071][850]LogModuleManager: Shutting down and abandoning module UObjectPlugin (390)
+[2021.01.11-19.06.26:071][850]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (388)
+[2021.01.11-19.06.26:097][850]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (386)
+[2021.01.11-19.06.26:097][850]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (384)
+[2021.01.11-19.06.26:121][850]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (382)
+[2021.01.11-19.06.26:148][850]LogModuleManager: Shutting down and abandoning module GitSourceControl (380)
+[2021.01.11-19.06.26:174][850]LogModuleManager: Shutting down and abandoning module SourceControl (379)
+[2021.01.11-19.06.26:193][850]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (376)
+[2021.01.11-19.06.26:193][850]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (374)
+[2021.01.11-19.06.26:193][850]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (372)
+[2021.01.11-19.06.26:193][850]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (370)
+[2021.01.11-19.06.26:193][850]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (368)
+[2021.01.11-19.06.26:193][850]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (366)
+[2021.01.11-19.06.26:193][850]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (364)
+[2021.01.11-19.06.26:193][850]LogModuleManager: Shutting down and abandoning module Paper2DEditor (362)
+[2021.01.11-19.06.26:274][850]LogModuleManager: Shutting down and abandoning module SoundFields (360)
+[2021.01.11-19.06.26:275][850]LogModuleManager: Shutting down and abandoning module SignificanceManager (358)
+[2021.01.11-19.06.26:275][850]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (356)
+[2021.01.11-19.06.26:275][850]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (354)
+[2021.01.11-19.06.26:275][850]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (350)
+[2021.01.11-19.06.26:275][850]LogModuleManager: Shutting down and abandoning module ActorSequence (348)
+[2021.01.11-19.06.26:275][850]LogModuleManager: Shutting down and abandoning module UdpMessaging (346)
+[2021.01.11-19.06.26:376][850]LogModuleManager: Shutting down and abandoning module TcpMessaging (344)
+[2021.01.11-19.06.26:498][850]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (342)
+[2021.01.11-19.06.26:498][850]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (340)
+[2021.01.11-19.06.26:498][850]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (338)
+[2021.01.11-19.06.26:498][850]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (336)
+[2021.01.11-19.06.26:498][850]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (334)
+[2021.01.11-19.06.26:505][850]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2021.01.11-19.06.26:505][850]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (332)
+[2021.01.11-19.06.26:505][850]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (330)
+[2021.01.11-19.06.26:505][850]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (328)
+[2021.01.11-19.06.26:506][850]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (326)
+[2021.01.11-19.06.26:506][850]LogModuleManager: Shutting down and abandoning module MagicLeapController (324)
+[2021.01.11-19.06.26:527][850]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2021.01.11-19.06.26:527][850]LogModuleManager: Shutting down and abandoning module MagicLeapARPinImpl (322)
+[2021.01.11-19.06.26:546][850]LogModuleManager: Shutting down and abandoning module MagicLeapAR (320)
+[2021.01.11-19.06.26:546][850]LogModuleManager: Shutting down and abandoning module AugmentedReality (319)
+[2021.01.11-19.06.26:546][850]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (316)
+[2021.01.11-19.06.26:546][850]LogModuleManager: Shutting down and abandoning module Niagara (314)
+[2021.01.11-19.06.26:586][850]LogModuleManager: Shutting down and abandoning module SignalProcessing (313)
+[2021.01.11-19.06.26:586][850]LogModuleManager: Shutting down and abandoning module NiagaraEditor (311)
+[2021.01.11-19.06.26:627][850]LogModuleManager: Shutting down and abandoning module NiagaraCore (308)
+[2021.01.11-19.06.26:627][850]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (306)
+[2021.01.11-19.06.26:649][850]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (304)
+[2021.01.11-19.06.26:649][850]LogModuleManager: Shutting down and abandoning module FacialAnimation (302)
+[2021.01.11-19.06.26:649][850]LogModuleManager: Shutting down and abandoning module DataValidation (300)
+[2021.01.11-19.06.26:649][850]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (298)
+[2021.01.11-19.06.26:694][850]LogModuleManager: Shutting down and abandoning module LevelEditor (297)
+[2021.01.11-19.06.26:735][850]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (296)
+[2021.01.11-19.06.26:753][850]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (294)
+[2021.01.11-19.06.26:753][850]LogModuleManager: Shutting down and abandoning module MainFrame (292)
+[2021.01.11-19.06.26:753][850]LogModuleManager: Shutting down and abandoning module HotReload (291)
+[2021.01.11-19.06.26:753][850]LogModuleManager: Shutting down and abandoning module ToolMenus (287)
+[2021.01.11-19.06.26:753][850]LogModuleManager: Shutting down and abandoning module ContentBrowser (285)
+[2021.01.11-19.06.26:754][850]LogModuleManager: Shutting down and abandoning module TreeMap (283)
+[2021.01.11-19.06.26:777][850]LogModuleManager: Shutting down and abandoning module AnimationSharing (280)
+[2021.01.11-19.06.26:778][850]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (278)
+[2021.01.11-19.06.26:778][850]LogModuleManager: Shutting down and abandoning module Paper2D (276)
+[2021.01.11-19.06.26:778][850]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (274)
+[2021.01.11-19.06.26:797][850]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (272)
+[2021.01.11-19.06.26:804][850]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (270)
+[2021.01.11-19.06.26:804][850]LogModuleManager: Shutting down and abandoning module PacketHandler (268)
+[2021.01.11-19.06.26:804][850]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (266)
+[2021.01.11-19.06.26:804][850]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (264)
+[2021.01.11-19.06.26:828][850]LogModuleManager: Shutting down and abandoning module MediaAssets (262)
+[2021.01.11-19.06.26:828][850]LogModuleManager: Shutting down and abandoning module Overlay (260)
+[2021.01.11-19.06.26:828][850]LogModuleManager: Shutting down and abandoning module OverlayEditor (259)
+[2021.01.11-19.06.26:828][850]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (256)
+[2021.01.11-19.06.26:855][850]LogModuleManager: Shutting down and abandoning module VREditor (254)
+[2021.01.11-19.06.26:878][850]LogModuleManager: Shutting down and abandoning module StringTableEditor (252)
+[2021.01.11-19.06.26:897][850]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (250)
+[2021.01.11-19.06.26:897][850]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (248)
+[2021.01.11-19.06.26:928][850]LogModuleManager: Shutting down and abandoning module FunctionalTesting (246)
+[2021.01.11-19.06.26:949][850]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (244)
+[2021.01.11-19.06.26:963][850]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (243)
+[2021.01.11-19.06.26:963][850]LogModuleManager: Shutting down and abandoning module UMG (240)
+[2021.01.11-19.06.26:995][850]LogModuleManager: Shutting down and abandoning module UMGEditor (239)
+[2021.01.11-19.06.27:009][850]LogModuleManager: Shutting down and abandoning module MessageLog (237)
+[2021.01.11-19.06.27:009][850]LogModuleManager: Shutting down and abandoning module MaterialEditor (235)
+[2021.01.11-19.06.27:010][850]LogModuleManager: Shutting down and abandoning module SlateReflector (230)
+[2021.01.11-19.06.27:035][850]LogModuleManager: Shutting down and abandoning module Slate (228)
+[2021.01.11-19.06.27:035][850]LogModuleManager: Shutting down and abandoning module SlateCore (226)
+[2021.01.11-19.06.27:035][850]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (224)
+[2021.01.11-19.06.27:035][850]LogModuleManager: Shutting down and abandoning module UnrealEd (222)
+[2021.01.11-19.06.27:055][850]LogModuleManager: Shutting down and abandoning module MRMesh (220)
+[2021.01.11-19.06.27:055][850]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (218)
+[2021.01.11-19.06.27:056][850]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (216)
+[2021.01.11-19.06.27:056][850]LogModuleManager: Shutting down and abandoning module XAudio2 (214)
+[2021.01.11-19.06.27:077][850]LogModuleManager: Shutting down and abandoning module Networking (212)
+[2021.01.11-19.06.27:077][850]LogModuleManager: Shutting down and abandoning module Core (210)
+[2021.01.11-19.06.27:077][850]LogModuleManager: Shutting down and abandoning module MovieSceneTools (208)
+[2021.01.11-19.06.27:122][850]LogModuleManager: Shutting down and abandoning module CurveEditor (207)
+[2021.01.11-19.06.27:128][850]LogModuleManager: Shutting down and abandoning module Sequencer (205)
+[2021.01.11-19.06.27:179][850]LogModuleManager: Shutting down and abandoning module EditorStyle (204)
+[2021.01.11-19.06.27:180][850]LogModuleManager: Shutting down and abandoning module KismetCompiler (200)
+[2021.01.11-19.06.27:180][850]LogModuleManager: Shutting down and abandoning module MeshBuilder (198)
+[2021.01.11-19.06.27:199][850]LogModuleManager: Shutting down and abandoning module MeshUtilities (196)
+[2021.01.11-19.06.27:219][850]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (195)
+[2021.01.11-19.06.27:227][850]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (194)
+[2021.01.11-19.06.27:227][850]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (193)
+[2021.01.11-19.06.27:246][850]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (191)
+[2021.01.11-19.06.27:264][850]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (189)
+[2021.01.11-19.06.27:287][850]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (187)
+[2021.01.11-19.06.27:307][850]LogModuleManager: Shutting down and abandoning module MaterialBaking (183)
+[2021.01.11-19.06.27:319][850]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (178)
+[2021.01.11-19.06.27:319][850]LogModuleManager: Shutting down and abandoning module DerivedDataCache (176)
+[2021.01.11-19.06.27:319][850]LogModuleManager: Shutting down and abandoning module XGEController (174)
+[2021.01.11-19.06.27:319][850]LogXGEController: Cleaning working directory: C:/Users/johns/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2021.01.11-19.06.27:320][850]LogModuleManager: Shutting down and abandoning module TargetPlatform (172)
+[2021.01.11-19.06.27:335][850]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (171)
+[2021.01.11-19.06.27:351][850]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (169)
+[2021.01.11-19.06.27:361][850]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (167)
+[2021.01.11-19.06.27:379][850]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (165)
+[2021.01.11-19.06.27:379][850]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (163)
+[2021.01.11-19.06.27:411][850]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (161)
+[2021.01.11-19.06.27:411][850]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (159)
+[2021.01.11-19.06.27:411][850]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (157)
+[2021.01.11-19.06.27:411][850]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (155)
+[2021.01.11-19.06.27:424][850]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (153)
+[2021.01.11-19.06.27:424][850]LogModuleManager: Shutting down and abandoning module ImageWrapper (152)
+[2021.01.11-19.06.27:424][850]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (149)
+[2021.01.11-19.06.27:424][850]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (147)
+[2021.01.11-19.06.27:442][850]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (145)
+[2021.01.11-19.06.27:442][850]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (143)
+[2021.01.11-19.06.27:464][850]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (141)
+[2021.01.11-19.06.27:464][850]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (139)
+[2021.01.11-19.06.27:464][850]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (137)
+[2021.01.11-19.06.27:464][850]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (135)
+[2021.01.11-19.06.27:464][850]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (133)
+[2021.01.11-19.06.27:484][850]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (131)
+[2021.01.11-19.06.27:485][850]LogModuleManager: Shutting down and abandoning module LinuxAArch64ServerTargetPlatform (129)
+[2021.01.11-19.06.27:507][850]LogModuleManager: Shutting down and abandoning module LinuxAArch64ClientTargetPlatform (127)
+[2021.01.11-19.06.27:522][850]LogModuleManager: Shutting down and abandoning module LinuxAArch64NoEditorTargetPlatform (125)
+[2021.01.11-19.06.27:531][850]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (123)
+[2021.01.11-19.06.27:549][850]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (121)
+[2021.01.11-19.06.27:570][850]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (119)
+[2021.01.11-19.06.27:587][850]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (117)
+[2021.01.11-19.06.27:587][850]LogModuleManager: Shutting down and abandoning module Messaging (115)
+[2021.01.11-19.06.27:587][850]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (113)
+[2021.01.11-19.06.27:588][850]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (111)
+[2021.01.11-19.06.27:591][850]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (109)
+[2021.01.11-19.06.27:591][850]LogModuleManager: Shutting down and abandoning module InputCore (106)
+[2021.01.11-19.06.27:591][850]LogModuleManager: Shutting down and abandoning module Settings (104)
+[2021.01.11-19.06.27:591][850]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (102)
+[2021.01.11-19.06.27:591][850]LogModuleManager: Shutting down and abandoning module PhysXCooking (100)
+[2021.01.11-19.06.27:591][850]LogModuleManager: Shutting down and abandoning module ChaosSolvers (98)
+[2021.01.11-19.06.27:619][850]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (97)
+[2021.01.11-19.06.27:619][850]LogModuleManager: Shutting down and abandoning module Chaos (94)
+[2021.01.11-19.06.27:619][850]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (92)
+[2021.01.11-19.06.27:639][850]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (91)
+[2021.01.11-19.06.27:655][850]LogModuleManager: Shutting down and abandoning module AVEncoder (90)
+[2021.01.11-19.06.27:672][850]LogModuleManager: Shutting down and abandoning module OculusHMD (86)
+[2021.01.11-19.06.27:672][850]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (84)
+[2021.01.11-19.06.27:672][850]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (82)
+[2021.01.11-19.06.27:672][850]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (80)
+[2021.01.11-19.06.27:672][850]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (76)
+[2021.01.11-19.06.27:753][850]LogModuleManager: Shutting down and abandoning module XMPP (71)
+[2021.01.11-19.06.27:780][850]LogModuleManager: Shutting down and abandoning module WebSockets (70)
+[2021.01.11-19.06.27:801][850]LogModuleManager: Shutting down and abandoning module HTTP (67)
+[2021.01.11-19.06.27:801][850]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2021.01.11-19.06.27:801][850]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0F4B9F56-4E6E-24D8-CF9E-1D9707173D75%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.4-14469661%2B%2B%2BUE4%2BRelease-4.25&UserID=7a09d7624ae13c2976e005b1d3cf437d%7C9aac916dd4bc41be88cb8f6ec6761d75%7C598bde66-b4f3-4379-bbd6-63ffd17837c1&AppEnvironment=datacollector-source&UploadType=eteventstream] refs=[1] status=Processing
+[2021.01.11-19.06.27:831][850]LogModuleManager: Shutting down and abandoning module SSL (66)
+[2021.01.11-19.06.27:832][850]LogModuleManager: Shutting down and abandoning module WmfMedia (62)
+[2021.01.11-19.06.27:863][850]LogModuleManager: Shutting down and abandoning module Media (61)
+[2021.01.11-19.06.27:863][850]LogModuleManager: Shutting down and abandoning module MagicLeap (58)
+[2021.01.11-19.06.27:863][850]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (56)
+[2021.01.11-19.06.27:878][850]LogModuleManager: Shutting down and abandoning module NiagaraShader (54)
+[2021.01.11-19.06.27:878][850]LogModuleManager: Shutting down and abandoning module VariantManagerContent (52)
+[2021.01.11-19.06.27:878][850]LogModuleManager: Shutting down and abandoning module DatasmithContent (50)
+[2021.01.11-19.06.27:890][850]LogModuleManager: Shutting down and abandoning module AISupportModule (48)
+[2021.01.11-19.06.27:890][850]LogModuleManager: Shutting down and abandoning module DesktopPlatform (46)
+[2021.01.11-19.06.27:910][850]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (44)
+[2021.01.11-19.06.27:927][850]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (42)
+[2021.01.11-19.06.27:927][850]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2021.01.11-19.06.27:927][850]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2021.01.11-19.06.27:958][850]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2021.01.11-19.06.27:974][850]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2021.01.11-19.06.28:002][850]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2021.01.11-19.06.28:002][850]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2021.01.11-19.06.28:002][850]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2021.01.11-19.06.28:002][850]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2021.01.11-19.06.28:023][850]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2021.01.11-19.06.28:045][850]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2021.01.11-19.06.28:045][850]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2021.01.11-19.06.28:070][850]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2021.01.11-19.06.28:085][850]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2021.01.11-19.06.28:085][850]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2021.01.11-19.06.28:085][850]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2021.01.11-19.06.28:098][850]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2021.01.11-19.06.28:098][850]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2021.01.11-19.06.28:120][850]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2021.01.11-19.06.28:133][850]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2021.01.11-19.06.28:134][850]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2021.01.11-19.06.28:150][850]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2021.01.11-19.06.28:184][850]LogD3D11RHI: Shutdown
+[2021.01.11-19.06.28:184][850]LogD3D11RHI: CleanupD3DDevice
+[2021.01.11-19.06.28:238][850]LogExit: Exiting.
+[2021.01.11-19.06.28:291][850]Log file closed, 01/11/21 19:06:28
